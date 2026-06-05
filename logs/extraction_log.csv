@@ -1,0 +1,9 @@
+﻿company_name,stock_code,candidate_text_path,model_name,prompt_version,json_path,status,event_count,investor_count,candidate_signal_count,error_message
+常州三协电机股份有限公司,920100,outputs/week1_candidate_texts/BSE001_920100_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/BSE001_920100.json,success,5,8,20,
+中科星图测控技术股份有限公司,920116,outputs/week1_candidate_texts/BSE002_920116_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/BSE002_920116.json,success,3,7,13,
+黄山谷捷股份有限公司,301581,outputs/week1_candidate_texts/GEM001_301581_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/GEM001_301581.json,success,2,7,14,
+云汉芯城（上海）互联网科技股份有限公司,301563,outputs/week1_candidate_texts/GEM002_301563_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/GEM002_301563.json,success,4,49,18,
+芜湖三联锻造股份有限公司,001282,outputs/week1_candidate_texts/MB001_001282_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/MB001_001282.json,success,1,6,16,
+上海友升铝业股份有限公司,603418,outputs/week1_candidate_texts/MB002_603418_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/MB002_603418.json,success,3,35,16,
+苏州赛分科技股份有限公司,688758,outputs/week1_candidate_texts/STAR001_688758_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/STAR001_688758.json,success,4,42,17,
+影石创新科技股份有限公司,688775,outputs/week1_candidate_texts/STAR002_688775_candidate.txt,rule_based_regex_pevc_event_pool_v5_refined,none,outputs/week1_sample_json/STAR002_688775.json,success,1,31,16,
