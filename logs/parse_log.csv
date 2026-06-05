@@ -1,0 +1,9 @@
+﻿company_name,stock_code,file_name,parser,parse_time,page_count,markdown_path,status,error_message
+常州三协电机股份有限公司,920100,BSE001_920100.pdf,MinerU,2026-06-05 14:13:12,379,data\parsed_texts_full\BSE001_920100\BSE001_920100\auto\BSE001_920100.md,success,
+中科星图测控技术股份有限公司,920116,BSE002_920116.pdf,MinerU,2026-06-05 14:29:05,365,data\parsed_texts_full\BSE002_920116\BSE002_920116\auto\BSE002_920116.md,success,
+黄山谷捷股份有限公司,301581,GEM001_301581.pdf,MinerU,2026-06-05 14:44:05,343,data\parsed_texts_full\GEM001_301581\GEM001_301581\auto\GEM001_301581.md,success,
+云汉芯城（上海）互联网科技股份有限公司,301563,GEM002_301563.pdf,MinerU,2026-06-05 14:58:58,443,data\parsed_texts_full\GEM002_301563\GEM002_301563\auto\GEM002_301563.md,success,
+芜湖三联锻造股份有限公司,001282,MB001_001282.pdf,MinerU,2026-06-05 15:16:28,476,data\parsed_texts_full\MB001_001282\MB001_001282\auto\MB001_001282.md,success_existing,Markdown already exists. Use --force to reparse.
+上海友升铝业股份有限公司,603418,MB002_603418.pdf,MinerU,2026-06-05 15:16:28,398,data\parsed_texts_full\MB002_603418\MB002_603418\auto\MB002_603418.md,success,
+苏州赛分科技股份有限公司,688758,STAR001_688758.pdf,MinerU,2026-06-05 15:33:25,468,data\parsed_texts_full\STAR001_688758\STAR001_688758\auto\STAR001_688758.md,success,
+影石创新科技股份有限公司,688775,STAR002_688775.pdf,MinerU,2026-06-05 15:54:25,555,data\parsed_texts_full\STAR002_688775\STAR002_688775\auto\STAR002_688775.md,success,
