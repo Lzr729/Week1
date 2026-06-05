@@ -1,0 +1,836 @@
+{
+  "company": {
+    "company_name": "云汉芯城（上海）互联网科技股份有限公司",
+    "stock_code": "301563",
+    "exchange": "深圳证券交易所",
+    "board": "创业板",
+    "listing_date": "2025-09-30",
+    "prospectus_title": "云汉芯城首次公开发行股票并在创业板上市招股说明书",
+    "prospectus_url": "https://static.cninfo.com.cn/finalpage/2025-09-25/1224679402.PDF",
+    "prospectus_version": "未披露",
+    "prospectus_date": "2025-09-25"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2018年",
+      "date_type": "协议签署日",
+      "event_type": "增资及股权转让",
+      "event_nature": "外部投资者进入",
+      "pevc_relevance": "core",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": 29.13,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": 1350000000.0,
+      "valuation_basis": "整体投后估值约为 13.5亿元",
+      "investors": [
+        {
+          "investor_original_name": "天健创投",
+          "investor_short_name": "天健创投",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "富海节能",
+          "investor_short_name": "富海节能",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "临港投资",
+          "investor_short_name": "临港投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "深创投",
+          "investor_short_name": "深创投",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "东方富海",
+          "investor_short_name": "东方富海",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "国科瑞华",
+          "investor_short_name": "国科瑞华",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": 74120000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "CASREV FUND",
+          "investor_short_name": "CASREV FUND",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": 18000000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "中科贵银",
+          "investor_short_name": "中科贵银",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": 15840000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "南山富海",
+          "investor_short_name": "南山富海",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": 30000000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "珠海拓域",
+          "investor_short_name": "珠海拓域",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": 10000000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "（二）2018 年 6 月至 7 月，股份公司增加注册资本暨第二次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （二）2018 年 6 月至 7 月，股份公司增加注册资本暨第二次股权转让 2018 年 6 月 12 日，发行人与国科瑞华、CASREV FUND、中科贵银、夏东、南山富海、珠海拓域、曾烨、刘云锋、为赛咨询、力源信息、东方富海、芜湖富海、深创投、天健创投、镇江红土、昆山红土、富海深湾、富海节能、临港投资、鸿迪投资签署了《关于云汉芯城（上海）互联网科技股份有限公司之增资与股权转让协议》，约定该协议相关方对发行人增资，以及受让发行人股份事宜。根据该协议，国科瑞华以现金 7,412 万元认缴新增注册资本 254.4787 万元；CASREV FUND 以现金 1,800 万元的等值美元认缴新增注册资本 61.8 万元；中科贵银以现金 1,584 万元认缴新增注册资本 54.384 万元；夏东以现金 204 万元认缴新增注册资本 7.004 万元；南山富海以现金 3,000 万元认缴新增注册资本103 万元；珠海拓域以现金 1,000 万元认缴新增注册资本 34.3333 万元。同时，该协议还约定，曾烨将其持有的发行人 51.5 万股股份转让予富海节能，转让价格为 1,500 万元；曾烨将其持有的发行人 18.025 万股股份转让予临港投资，转让价格为 524.9994 万元；刘云锋将其持有的发行人 9.4417 万股股份转让予临港投资，转让价格为 275.006万元；刘云锋将其持有的发行人 36.9083万股股份转让予鸿迪投资，转让价格为 1,075 万元。上述增资和股权转让的每股价格约为29.13元，对应发行人整体投后估值约为 13.5亿元。 发行人于 2018 年 6 月 12 日召开 2018 年第一次临时股东大会并通过决议，同意上述协议约定的发行人增资及股东转让股份事项。同时，同意对公司管理团队进行股权激励，由激励对象李文发、秦国君、李剑峰、周雪峰认缴发行人新增注册资本共计 120万元，每股价格 1元。其中，李文发以现金 20万元认缴新增注册资本 20万元；秦国君以现金 20万元认缴新增注册资本 20万元；李剑峰以现金 20万元认缴新增注册资本 20万元；周雪峰以现金 60万元认缴新增注册资本60万元。 2018年 6月 28日，发行人就夏东、南山富海、珠海拓域、李文发、秦国君、李剑峰、周雪峰向发行人增资事宜办理完成工商变更登记，发行人的注册资本由 4,000 万元增至 4,264.3373 万元。 2018年7月27日，发行人就国科瑞华、CASREV FUND、中科贵银向发行人增资事宜办理完成工商变更登记。发行人的注册资本由 4,264.3373 万元增至4,635 万元。 2020 年 12 月 16 日，容诚会计师出具了《验资报告》（容诚验字[2020]361Z0117号），对本次增资进行了验证。 本次变更完成后，公司的股权结构如下：",
+      "confidence": "high",
+      "source_candidate_file": "outputs/week1_candidate_texts/GEM002_301563_candidate.txt",
+      "raw_amount_candidates": [
+        "1,000 万元",
+        "1,075 万元",
+        "1,500 万元",
+        "1,584 万元",
+        "1,800 万元",
+        "103 万元",
+        "120万元",
+        "13.5亿元",
+        "1元",
+        "204 万元",
+        "20万元",
+        "254.4787 万元",
+        "275.006万元",
+        "29.13元",
+        "3,000 万元",
+        "34.3333 万元",
+        "4,000 万元",
+        "4,264.3373 万元",
+        "4,635 万元",
+        "524.9994 万元",
+        "54.384 万元",
+        "60万元",
+        "61.8 万元",
+        "7,412 万元",
+        "7.004 万元"
+      ],
+      "raw_price_candidates": [
+        "每股价格 1元",
+        "每股价格约为29.13元"
+      ],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": []
+    },
+    {
+      "event_order": 2,
+      "event_date": "2018年",
+      "date_type": "协议签署日",
+      "event_type": "股权转让",
+      "event_nature": "外部投资者进入",
+      "pevc_relevance": "core",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "东方富海（芜湖）股权投资基金管理企业（有限合伙",
+          "investor_short_name": "东方富海（芜湖）股权投资基金管理企业（有限合伙",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "厦门蜜呆资产管理合伙企业（有限合伙）",
+          "investor_short_name": "厦门蜜呆资产管理合伙企业（有限合伙）",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "丰利新三板基金",
+          "investor_short_name": "丰利新三板基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "丰利财富",
+          "investor_short_name": "丰利财富",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": 10000000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 1.67,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "天健创投",
+          "investor_short_name": "天健创投",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 1.67,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "丰利财富系代表其管理的丰利财富新三板成长基金",
+          "investor_short_name": "丰利财富系代表其管理的丰利财富新三板成长基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "年丰利新三板基金",
+          "investor_short_name": "年丰利新三板基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "东方富海",
+          "investor_short_name": "东方富海",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "（一）2018 年 4 月，股份公司第一次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （一）2018 年 4 月，股份公司第一次股权转让 2018年 4月 28日，丰利财富与天健创投签署了《关于云汉芯城（上海）互联网科技股份有限公司股份转让协议》，约定丰利财富将其持有的云汉芯城全部 666,680股股份（占总股本的 1.67%）转让给天健创投，转让价格系按照丰利财富 2015 年入股云汉有限时的投资总额 1,000 万元确定。丰利财富系代表其管理的丰利财富新三板成长基金（以下简称“丰利新三板基金”）投资发行人，资金来源为丰利新三板基金的募集资金。由于 2018 年丰利新三板基金拟转让发行人股份时，其存续期限已临近届满，基金所投资的项目退出压力较大，急于寻找退出的渠道，因此丰利财富同意按其出资时的价格 1000 万元将持有发行人的股份转让给天健创投。 新增股东天健创投主营业务为创业投资，与公司主营业务不存在相似或相同的情况，非三类股东。东方富海（芜湖）股权投资基金管理企业（有限合伙）和厦门蜜呆资产管理合伙企业（有限合伙）为其普通合伙人，其中蜜呆资管为其执行事务合伙人，实际控制人为徐珊。 本次股权转让后，公司股权结构如下：",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/GEM002_301563_candidate.txt",
+      "raw_amount_candidates": [
+        "1,000 万元",
+        "1000 万元"
+      ],
+      "raw_price_candidates": [],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": [
+        "1.67%"
+      ]
+    },
+    {
+      "event_order": 3,
+      "event_date": "未披露",
+      "date_type": "协议签署日",
+      "event_type": "增资及股权转让",
+      "event_nature": "外部投资者进入",
+      "pevc_relevance": "core",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": 51.6,
+      "shares_issued_or_transferred": 387596.0,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "中小企业基金",
+          "investor_short_name": "中小企业基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "鸿迪投资",
+          "investor_short_name": "鸿迪投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "（五）2020 年 9 月，股份公司第三次增资和第四次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （五）2020 年 9 月，股份公司第三次增资和第四次股权转让 2020 年 9 月 15 日，发行人召开 2020 年第三次临时股东大会并通过决议，同意发行人的注册资本由 4,748.0488 万元增至 4,883.7074 万元。其中，厦门西堤以 5,000.00 万元认购公司新增股份 96.899 万股，96.899 万元计入股本，剩余部分计入资本公积；中小企业基金以 2,000.00 万元认购新增股份 38.7596 万股，38.7596 万元计入股本，剩余部分计入资本公积。 2020 年 12 月 16 日，容诚会计师出具了《验资报告》（容诚验字 [2020]361Z0117 号），对本次增资进行了验证。 此外，公司股东曾烨、刘云锋、秦国君、李文发与郦韩英、沈笑彦、衣嘉平、余满芬、崔振南、鸿迪投资、福建开京、湘裕君源等 8 位自然人、法人主体签署股份转让协议，转让股份合计 1,659,535股，具体情况如下： 2020 年 9 月 23 日，股份公司在上海市市场监督管理局完成了变更登记。 此次增资及股权转让的每股价格约为 51.6 元，对应发行人整体投后估值约为25.2亿。本次变更完成后，发行人的股权结构如下：",
+      "confidence": "high",
+      "source_candidate_file": "outputs/week1_candidate_texts/GEM002_301563_candidate.txt",
+      "raw_amount_candidates": [
+        "2,000.00 万元",
+        "38.7596 万元",
+        "4,748.0488 万元",
+        "4,883.7074 万元",
+        "5,000.00 万元",
+        "51.6 元",
+        "96.899 万元"
+      ],
+      "raw_price_candidates": [
+        "每股价格约为 51.6 元"
+      ],
+      "raw_share_candidates": [
+        "新增股份 38.7596 万股",
+        "新增股份 96.899 万股",
+        "转让股份合计 1,659,535股"
+      ],
+      "raw_ratio_candidates": []
+    },
+    {
+      "event_order": 4,
+      "event_date": "未披露",
+      "date_type": "协议签署日",
+      "event_type": "增资",
+      "event_nature": "历史增资",
+      "pevc_relevance": "related",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": 44.23,
+      "shares_issued_or_transferred": 1130488.0,
+      "pre_money_valuation": null,
+      "post_money_valuation": 2100000000.0,
+      "valuation_basis": "整体投后估值约为21亿元",
+      "investors": [],
+      "investor_disclosure_status": "未识别到投资方名称",
+      "source_section": "（四）2020 年 5 月，股份公司第二次增资",
+      "source_page": "未定位",
+      "evidence_text": "## （四）2020 年 5 月，股份公司第二次增资 2020 年 5 月 20 日，召开 2020 年第二次临时股东大会并通过决议，同意发行人的注册资本由 4,635 万元增至 4,748.0488 万元。 根据发行人与火炬电子于 2020 年 5 月 20 日签署的《关于云汉芯城（上海）互联网科技股份有限公司之增资协议》，火炬电子以现金 5,000 万元认购上述新增股份 113.0488 万股。此次增资每股价格约为 44.23 元，对应发行人整体投后估值约为21亿元。 2020 年 5 月 28 日，发行人在上海市市场监督管理局完成了变更备案。 2020 年 12 月 16 日，容诚会计师出具了《验资报告》（容诚验字[2020]361Z0117号），对本次增资进行了验证。 本次增资后，发行人的股权结构如下：",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/GEM002_301563_candidate.txt",
+      "raw_amount_candidates": [
+        "21亿元",
+        "4,635 万元",
+        "4,748.0488 万元",
+        "44.23 元",
+        "5,000 万元"
+      ],
+      "raw_price_candidates": [
+        "每股价格约为 44.23 元"
+      ],
+      "raw_share_candidates": [
+        "新增股份 113.0488 万股"
+      ],
+      "raw_ratio_candidates": []
+    }
+  ],
+  "investor_overview": [
+    {
+      "investor_original_name": "天健创投",
+      "investor_short_name": "天健创投",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 2,
+      "related_event_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "investor_original_name": "富海节能",
+      "investor_short_name": "富海节能",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "临港投资",
+      "investor_short_name": "临港投资",
+      "investor_type": "无法判断",
+      "is_pevc": "uncertain",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "鸿迪投资",
+      "investor_short_name": "鸿迪投资",
+      "investor_type": "无法判断",
+      "is_pevc": "uncertain",
+      "event_count": 2,
+      "related_event_orders": [
+        1,
+        3
+      ]
+    },
+    {
+      "investor_original_name": "深创投",
+      "investor_short_name": "深创投",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "东方富海",
+      "investor_short_name": "东方富海",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 2,
+      "related_event_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "investor_original_name": "国科瑞华",
+      "investor_short_name": "国科瑞华",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "CASREV FUND",
+      "investor_short_name": "CASREV FUND",
+      "investor_type": "无法判断",
+      "is_pevc": "uncertain",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "中科贵银",
+      "investor_short_name": "中科贵银",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "南山富海",
+      "investor_short_name": "南山富海",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "珠海拓域",
+      "investor_short_name": "珠海拓域",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "东方富海（芜湖）股权投资基金管理企业（有限合伙",
+      "investor_short_name": "东方富海（芜湖）股权投资基金管理企业（有限合伙",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "厦门蜜呆资产管理合伙企业（有限合伙）",
+      "investor_short_name": "厦门蜜呆资产管理合伙企业（有限合伙）",
+      "investor_type": "无法判断",
+      "is_pevc": "uncertain",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "丰利新三板基金",
+      "investor_short_name": "丰利新三板基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "丰利财富",
+      "investor_short_name": "丰利财富",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "丰利财富系代表其管理的丰利财富新三板成长基金",
+      "investor_short_name": "丰利财富系代表其管理的丰利财富新三板成长基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "年丰利新三板基金",
+      "investor_short_name": "年丰利新三板基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "中小企业基金",
+      "investor_short_name": "中小企业基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        3
+      ]
+    }
+  ],
+  "shareholding_and_exit_summary": [
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（一）本次发行前滚存利润的分配安排",
+      "source_page": "未定位",
+      "evidence_text": "## （一）本次发行前滚存利润的分配安排 根据公司 2021 年 10 月召开的 2021 年第四次临时股东大会决议，截至 2021年 9月 30日，公司不存在滚存未分配利润；若公司首次公开发行股票并在创业板上市前存在滚存未分配利润，则拟由公司本次发行后的新股东和发行前的老股东按照发行后的股份比例共享；若公司首次公开发行股票并在创业板上市前存在未弥补亏损，则拟由公司本次发行后的新股东和发行前的老股东按照发行后的股份比例承担。"
+    },
+    {
+      "summary_type": "lockup_arrangement",
+      "source_section": "（三）本次发行的相关重要承诺",
+      "source_page": "未定位",
+      "evidence_text": "## （三）本次发行的相关重要承诺 公司控股股东、实际控制人及其一致行动人已承诺，若出现公司上市当年及之后第二年、第三年较上市前一年净利润下滑 50%以上等情形的，延长其届时所持股份锁定期限。本次发行相关责任方作出的重要承诺详见本招股说明书“附录二与投资者保护相关的承诺”。"
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（二）实际控制人控制不当的风险",
+      "source_page": "未定位",
+      "evidence_text": "## （二）实际控制人控制不当的风险 本次发行前，公司实际控制人曾烨先生直接和间接合计控制公司 35.19%的股份，在本次发行完成后仍为公司的实际控制人，对公司的战略规划、经营决策具有重大的影响。如未来实际控制人出现决策失误，将对公司的实际经营产生不利影响，存在实际控制人控制不当的风险。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（一）2018 年 4 月，股份公司第一次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （一）2018 年 4 月，股份公司第一次股权转让 2018年 4月 28日，丰利财富与天健创投签署了《关于云汉芯城（上海）互联网科技股份有限公司股份转让协议》，约定丰利财富将其持有的云汉芯城全部 666,680股股份（占总股本的 1.67%）转让给天健创投，转让价格系按照丰利财富 2015 年入股云汉有限时的投资总额 1,000 万元确定。丰利财富系代表其管理的丰利财富新三板成长基金（以下简称“丰利新三板基金”）投资发行人，资金来源为丰利新三板基金的募集资金。由于 2018 年丰利新三板基金拟转让发行人股份时，其存续期限已临近届满，基金所投资的项目退出压力较大，急于寻找退出的渠道，因此丰利财富同意按其出资时的价格 1000 万元将持有发行人的股份转让给天健创投。 新增股东天健创投主营业务为创业投资，与公司主营业务不存在相似或相同的情况，非三类股东。东方富海（芜湖）股权投资基金管理企业（有限合伙）和厦门蜜呆资产管理合伙企业（有限合伙）为其普通合伙人，其中蜜呆资管为其执行事务合伙人，实际控制人为徐珊。 本次股权转让后，公司股权结构如下："
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（二）2018 年 6 月至 7 月，股份公司增加注册资本暨第二次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （二）2018 年 6 月至 7 月，股份公司增加注册资本暨第二次股权转让 2018 年 6 月 12 日，发行人与国科瑞华、CASREV FUND、中科贵银、夏东、南山富海、珠海拓域、曾烨、刘云锋、为赛咨询、力源信息、东方富海、芜湖富海、深创投、天健创投、镇江红土、昆山红土、富海深湾、富海节能、临港投资、鸿迪投资签署了《关于云汉芯城（上海）互联网科技股份有限公司之增资与股权转让协议》，约定该协议相关方对发行人增资，以及受让发行人股份事宜。根据该协议，国科瑞华以现金 7,412 万元认缴新增注册资本 254.4787 万元；CASREV FUND 以现金 1,800 万元的等值美元认缴新增注册资本 61.8 万元；中科贵银以现金 1,584 万元认缴新增注册资本 54.384 万元；夏东以现金 204 万元认缴新增注册资本 7.004 万元；南山富海以现金 3,000 万元认缴新增注册资本103 万元；珠海拓域以现金 1,000 万元认缴新增注册资本 34.3333 万元。同时，该协议还约定，曾烨将其持有的发行人 51.5 万股股份..."
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（三）2019 年 8 月，股份公司第三次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （三）2019 年 8 月，股份公司第三次股权转让 2019 年 8 月 13 日，为赛咨询与李文发、秦国君分别签署了《股份转让协议》。根据该协议，李文发以 40 万元的价格受让为赛咨询持有的发行人股份40 万股，秦国君以 40 万元的价格受让为赛咨询持有的发行人股份 40 万股。同时，李文发、秦国君与为赛咨询其他合伙人签署了《退伙协议书》，两人于2019年 8月 12日将其依据 2017年公司员工激励方案以 40万元的价格各取得的为赛咨询21.58%的财产份额转出，进而从为赛咨询退伙。 本次转让后，公司的股权结构如下："
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（五）2020 年 9 月，股份公司第三次增资和第四次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （五）2020 年 9 月，股份公司第三次增资和第四次股权转让 2020 年 9 月 15 日，发行人召开 2020 年第三次临时股东大会并通过决议，同意发行人的注册资本由 4,748.0488 万元增至 4,883.7074 万元。其中，厦门西堤以 5,000.00 万元认购公司新增股份 96.899 万股，96.899 万元计入股本，剩余部分计入资本公积；中小企业基金以 2,000.00 万元认购新增股份 38.7596 万股，38.7596 万元计入股本，剩余部分计入资本公积。 2020 年 12 月 16 日，容诚会计师出具了《验资报告》（容诚验字 [2020]361Z0117 号），对本次增资进行了验证。 此外，公司股东曾烨、刘云锋、秦国君、李文发与郦韩英、沈笑彦、衣嘉平、余满芬、崔振南、鸿迪投资、福建开京、湘裕君源等 8 位自然人、法人主体签署股份转让协议，转让股份合计 1,659,535股，具体情况如下： 2020 年 9 月 23 日，股份公司在上海市市场监督管理局完成了变更登记。 此次增资及股权转让的每股价格约为 51.6 元，对应发行人整体投后估值约为25.2亿。本次变更完成后，发行人的股权结构如下："
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（六）对赌协议解除相关情况",
+      "source_page": "未定位",
+      "evidence_text": "...人优先权等特殊权利安排已履行完毕或彻底终止，发行人、曾烨、刘云锋、为赛咨询对各轮投资人不负有任何关于业绩承诺、上市承诺的回购、补偿或赔偿等义务。《关于投资协议特殊权利条款终止之协议书》的前述约定不存在自动恢复条款。2023 年 8 月，各轮投资人签署了《关于云汉芯城不存在回购义务相关事项的确认函》，确认自其入股发行人以来，与发行人之间自始不存在发行人作为对赌协议补偿或回购条款义务方的约定，也不存在发行人承担回购、补偿等任何对赌义务的情形。除已披露的投资协议之外，各轮投资人也未与发行人签署任何要求发行人承担回购义务相关内容的其他协议、条款或任何形式的承诺。发行人自始对各轮投资人不负有任何回购股份的义务，也不存在在业绩对赌、上市对赌、股权回购等条款下承担任何赔偿或回购等义务的情形。 发行人历史上业绩承诺、上市承诺条款的签署及履行、终止情况，以及特殊权利条款终止协议书的具体条款内容如下： 注：天健创投与丰利财富于 2018 年 4 月 28 日签署了《关于云汉芯城（上海）互联网科技股份有限公司股份转让协议》，约定了上述 B 轮投资协议项下丰利财富享有的各项权利全部由天健创投承继。2021 年 9 月 30 日天健创投享有的各项投资人特殊权利均已彻底终止。 各轮投资协议中，除上述上市承诺及业绩承诺条款外，还约定了投资人享有的优先购买、共同出售、反稀释、优先清算、公司治理等方面的特殊权利。根据相关股东与各轮投资人于 2021 年 9 月 30 日分别签署的《关于投资协议特殊权利条款终止之协议书》，该等投资人享有的优先购买、共同出售、反稀释、优先清算、公司治理等方面的特殊权利也均已终止，且不带恢复条款。 因此，不存在因对赌协议导致发行人控制权不稳定、严重影响发行人持续经营能力以及其他严重影响投资者权益的情形。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（三）报告期转让、注销子公司的情形",
+      "source_page": "未定位",
+      "evidence_text": "## （三）报告期转让、注销子公司的情形 报告期内，公司无转让或注销子公司的情况。"
+    },
+    {
+      "summary_type": "lockup_arrangement",
+      "source_section": "（4）富海节能",
+      "source_page": "未定位",
+      "evidence_text": "## （4）富海节能 富海节能的有限合伙人招商财富-东方富海节能环保基金专项资产管理计划（以下简称“招商资管计划”）为资产管理计划，基本情况如下： 招商资管计划的管理人招商财富资产管理有限公司的基本情况如下： 招商资管计划依法成立、有效存续并已按照相关规定进行备案，其管理人招商财富资产管理有限公司已依法注册并持有有效的《经营证券期货业务许可证》。发行人的控股股东、实际控制人、董事、高级管理人员及其近亲属、本次发行的中介机构及其签字人员不存在直接或间接持有招商资管计划权益的情形。招商财富资产管理有限公司承诺招商资管计划在公司上市后 12 个月内不减持其间接持有的发行人股份。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（4）富海节能",
+      "source_page": "未定位",
+      "evidence_text": "## （4）富海节能 富海节能的有限合伙人招商财富-东方富海节能环保基金专项资产管理计划（以下简称“招商资管计划”）为资产管理计划，基本情况如下： 招商资管计划的管理人招商财富资产管理有限公司的基本情况如下： 招商资管计划依法成立、有效存续并已按照相关规定进行备案，其管理人招商财富资产管理有限公司已依法注册并持有有效的《经营证券期货业务许可证》。发行人的控股股东、实际控制人、董事、高级管理人员及其近亲属、本次发行的中介机构及其签字人员不存在直接或间接持有招商资管计划权益的情形。招商财富资产管理有限公司承诺招商资管计划在公司上市后 12 个月内不减持其间接持有的发行人股份。"
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（一）本次发行前后的股本情况",
+      "source_page": "未定位",
+      "evidence_text": "## （一）本次发行前后的股本情况 发行人本次发行前总股本为 48,837,074 股，本次拟公开发行新股为16,279,025 股，占发行后总股本的比例为 25.00%。发行前后股东持股情况如下："
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（二）发行前本公司前十名股东",
+      "source_page": "未定位",
+      "evidence_text": "## （二）发行前本公司前十名股东 （三）本次发行前的前十名自然人股东及其在发行人处担任职务"
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（五）最近一年内新增股东的情况",
+      "source_page": "未定位",
+      "evidence_text": "## （五）最近一年内新增股东的情况 截至本招股说明书签署日，发行人不存在最近一年新增股东的情况。 （六）本次发行前各股东间的关联关系及关联股东的各自持股比例 注：根据天健创投的合伙协议及股东调查表，天健创投的执行事务合伙人为厦门蜜呆资产管理合伙企业（有限合伙）。深圳市东方富海投资管理股份有限公司控制的东方富海（芜湖）股权投资基金管理企业（有限合伙）为天健创投的普通合伙人，但并非执行事务合伙人，持有天健创投 0.5%的财产份额；深圳市东方富海投资管理股份有限公司为天健创投的有限合伙人，持有天健创投 9.5%的财产份额。天健创投不受深圳市东方富海投资管理股份有限公司的控制。除上述投资关系外，天健创投与芜湖富海、东方富海、南山富海、富海节能、中小企业基金、富海深湾不存在其他关联关系。 除此之外，公司其他股东之间不存在关联关系。"
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（四）董事、监事、高级管理人员和核心技术人员及其近亲属持有发行人股份的情况",
+      "source_page": "未定位",
+      "evidence_text": "## （四）董事、监事、高级管理人员和核心技术人员及其近亲属持有发行人股份的情况 截至本招股说明书签署之日，公司现任董事、高级管理人员、核心技术人员及其近亲属持有发行人股份的情况如下： 除上述情况外，本次发行前无其他董事、高级管理人员和核心技术人员及其近亲属以任何方式直接或间接持有本公司股份的情况。上述董事、高级管理人员和核心技术人员及其近亲属直接或间接持有的本公司的股份不存在质押或冻结以及其他争议或潜在纠纷的情况。"
+    }
+  ],
+  "candidate_evidence_summary": {
+    "has_candidate_text": true,
+    "candidate_snippet_count": 9,
+    "detected_keywords": [
+      "股票发行",
+      "发行股票",
+      "新增注册资本",
+      "增加注册资本",
+      "增资",
+      "认购",
+      "股权转让",
+      "股份转让",
+      "转让协议",
+      "受让",
+      "创业投资",
+      "创投",
+      "股权投资",
+      "投资基金",
+      "合伙企业",
+      "投资有限公司",
+      "投资管理有限公司",
+      "资产管理有限公司"
+    ],
+    "detected_investor_names": [
+      "东方富海节能环保基金",
+      "东方富海（芜湖）股权投资基金管理企业（有限合伙",
+      "厦门蜜呆资产管理合伙企业（有限合伙）",
+      "国证券投资基金",
+      "中小企业基金",
+      "丰利新三板基金",
+      "丰利财富",
+      "天健创投",
+      "丰利财富系代表其管理的丰利财富新三板成长基金",
+      "剔除最高报价后公募基金",
+      "公司将授予股权激励对象的合伙企业",
+      "公司股东深创投",
+      "其他合伙人不执行合伙企业",
+      "招商财富资产管理有限公司",
+      "包括改变合伙企业",
+      "历任镇江红土创业投资有限公司",
+      "因故意或重大过失给合伙企业",
+      "处分合伙企业",
+      "天健创投的执行事务合伙人为厦门蜜呆资产管理合伙企业（有限合伙）",
+      "对外代表合伙企业执行合伙企业",
+      "就职中国科技产业投资管理有限公司",
+      "就职中安润信（北京）创业投资有限公司",
+      "年丰利新三板基金",
+      "年金基金",
+      "担任深圳市东方富海投资管理股份有限公司合伙人",
+      "基金",
+      "担任深圳市富海中小企业发展基金股权投资管理有限公司",
+      "招商资管计划的管理人招商财富资产管理有限公司",
+      "持有天健创投",
+      "改变合伙企业",
+      "日天健创投",
+      "根据天健创投",
+      "根据深创投",
+      "深圳市东方富海投资管理股份有限公司为天健创投",
+      "深圳市东方富海投资管理股份有限公司控制的东方富海（芜湖）股权投资基金管理企业（有限合伙）为天健创投",
+      "社保基金",
+      "聘任合伙人以外的人担任合伙企业",
+      "负责合伙企业",
+      "转让或者处分合伙企业",
+      "轮投资协议项下丰利财富享有的各项权利全部由天健创投"
+    ],
+    "detected_amount_or_price_values": [
+      "0.00 万元",
+      "0万元",
+      "1 亿元",
+      "1 元",
+      "1,000 万元",
+      "1,009.98 万元",
+      "1,075 万元",
+      "1,144.23 万元",
+      "1,256.67万元",
+      "1,440.09 万元",
+      "1,500 万元",
+      "1,526.81 万元",
+      "1,576.36 万元",
+      "1,584 万元",
+      "1,653.42 万元",
+      "1,800 万元",
+      "10 亿元",
+      "10,000万元",
+      "1000 万元",
+      "103 万元",
+      "10亿元",
+      "12,987.14 万元",
+      "120 万元",
+      "120万元",
+      "13,541.19 万元",
+      "13,563.44 万元",
+      "13,602.44 万元",
+      "13.5亿元",
+      "144,004.57 万元",
+      "148.77万元"
+    ],
+    "detected_ratio_values": [
+      "0.1%",
+      "0.5%",
+      "0.70%",
+      "0.92%",
+      "1%",
+      "1.03%",
+      "1.29%",
+      "1.42%",
+      "1.67%",
+      "1.74%",
+      "1.77%",
+      "1.80%",
+      "1.86%",
+      "1.91%",
+      "10%",
+      "10.25%",
+      "11%",
+      "11.79%",
+      "12.16%",
+      "12.39%",
+      "13.22%",
+      "13.70%",
+      "13.88%",
+      "14.54%",
+      "14.77%",
+      "15%",
+      "15.00%",
+      "15.35%",
+      "15.57%",
+      "15.59%"
+    ],
+    "top_candidate_evidence": [
+      "## （四）发行失败的风险 公司本次拟申请在深交所创业板公开发行股票，根据《深圳证券交易所股票发行上市审核规则》《深圳证券交易所创业板股票上市规则》等有关规定，须满足相应的上市条件。公司选择的具体上市标准为“预计市值不低于 10 亿元，最近一年净利润为正且营业收入不低于人民币 1亿元”。根据保荐机构 2021年12 月出具的《国金证券股份有限公司关于云汉芯城（上海）互联网科技股份有限公司预计市值的分析报告》，分别按照收益法和市场法评估，发行人的股权价值分别为 60.79 亿元和 56.69 亿元，基于谨慎考虑，并参考最近一次融资（2020 年 9 月）整体投后估值（25.20 亿元），发行人股权价值采用估值较低的市场法评估确认的 56.69 亿元。因此，发行人预计市值建立在该次股权融资估值情况及公司经营情况、同行业上市公司估值水平的基础上。若公司启动发行时同行业上市公司市场估值水平出现大幅下滑，或公司发行前经营业绩出现下滑，将可能导致公司发行后市值无法满足《深圳证券交易所股票发行上市审核规则》第二十二条以及《深圳证券交易所创业板股票上市规则》2.1.2 规定的“预计市值不低于人民币 10 亿元”的要求，存在发行失败的风险。同时，本次发行的发行结果也受到证券市场整体情况、投资者对本次发行方案的认可程度等多种因素的影响，存在不能足额募集所需资金甚至发行失败的风险。",
+      "## （一）2018 年 4 月，股份公司第一次股权转让 2018年 4月 28日，丰利财富与天健创投签署了《关于云汉芯城（上海）互联网科技股份有限公司股份转让协议》，约定丰利财富将其持有的云汉芯城全部 666,680股股份（占总股本的 1.67%）转让给天健创投，转让价格系按照丰利财富 2015 年入股云汉有限时的投资总额 1,000 万元确定。丰利财富系代表其管理的丰利财富新三板成长基金（以下简称“丰利新三板基金”）投资发行人，资金来源为丰利新三板基金的募集资金。由于 2018 年丰利新三板基金拟转让发行人股份时，其存续期限已临近届满，基金所投资的项目退出压力较大，急于寻找退出的渠道，因此丰利财富同意按其出资时的价格 1000 万元将持有发行人的股份转让给天健创投。 新增股东天健创投主营业务为创业投资，与公司主营业务不存在相似或相同的情况，非三类股东。东方富海（芜湖）股权投资基金管理企业（有限合伙）和厦门蜜呆资产管理合伙企业（有限合伙）为其普通合伙人，其中蜜呆资管为其执行事务合伙人，实际控制人为徐珊。 本次股权转让后，公司股权结构如下：",
+      "## （二）2018 年 6 月至 7 月，股份公司增加注册资本暨第二次股权转让 2018 年 6 月 12 日，发行人与国科瑞华、CASREV FUND、中科贵银、夏东、南山富海、珠海拓域、曾烨、刘云锋、为赛咨询、力源信息、东方富海、芜湖富海、深创投、天健创投、镇江红土、昆山红土、富海深湾、富海节能、临港投资、鸿迪投资签署了《关于云汉芯城（上海）互联网科技股份有限公司之增资与股权转让协议》，约定该协议相关方对发行人增资，以及受让发行人股份事宜。根据该协议，国科瑞华以现金 7,412 万元认缴新增注册资本 254.4787 万元；CASREV FUND 以现金 1,800 万元的等值美元认缴新增注册资本 61.8 万元；中科贵银以现金 1,584 万元认缴新增注册资本 54.384 万元；夏东以现金 204 万元认缴新增注册资本 7.004 ...",
+      "## （三）2019 年 8 月，股份公司第三次股权转让 2019 年 8 月 13 日，为赛咨询与李文发、秦国君分别签署了《股份转让协议》。根据该协议，李文发以 40 万元的价格受让为赛咨询持有的发行人股份40 万股，秦国君以 40 万元的价格受让为赛咨询持有的发行人股份 40 万股。同时，李文发、秦国君与为赛咨询其他合伙人签署了《退伙协议书》，两人于2019年 8月 12日将其依据 2017年公司员工激励方案以 40万元的价格各取得的为赛咨询21.58%的财产份额转出，进而从为赛咨询退伙。 本次转让后，公司的股权结构如下：",
+      "## （四）2020 年 5 月，股份公司第二次增资 2020 年 5 月 20 日，召开 2020 年第二次临时股东大会并通过决议，同意发行人的注册资本由 4,635 万元增至 4,748.0488 万元。 根据发行人与火炬电子于 2020 年 5 月 20 日签署的《关于云汉芯城（上海）互联网科技股份有限公司之增资协议》，火炬电子以现金 5,000 万元认购上述新增股份 113.0488 万股。此次增资每股价格约为 44.23 元，对应发行人整体投后估值约为21亿元。 2020 年 5 月 28 日，发行人在上海市市场监督管理局完成了变更备案。 2020 年 12 月 16 日，容诚会计师出具了《验资报告》（容诚验字[2020]361Z0117号），对本次增资进行了验证。 本次增资后，发行人的股权结构如下：",
+      "## （五）2020 年 9 月，股份公司第三次增资和第四次股权转让 2020 年 9 月 15 日，发行人召开 2020 年第三次临时股东大会并通过决议，同意发行人的注册资本由 4,748.0488 万元增至 4,883.7074 万元。其中，厦门西堤以 5,000.00 万元认购公司新增股份 96.899 万股，96.899 万元计入股本，剩余部分计入资本公积；中小企业基金以 2,000.00 万元认购新增股份 38.7596 万股，38.7596 万元计入股本，剩余部分计入资本公积。 2020 年 12 月 16 日，容诚会计师出具了《验资报告》（容诚验字 [2020]361Z0117 号），对本次增资进行了验证。 此外，公司股东曾烨、刘云锋、秦国君、李文发与郦韩英、沈笑彦、衣嘉平、余满芬、崔振南、鸿迪投资、福建开京、湘裕君源等 8 位自然人、法人主体签署股份转让协议，转让股份合计 1,659,535股，具体情况如下： 2020 年 9 月 23 日，股份公司在上海市市场监督管理局完成了变更登记。 此次增资及股权转让的每股价格约为 51.6 元，对应发行人整体投后估值约为25.2亿。本次变更完成后，发行人的股权结构如下：",
+      "## （2）2018 年员工股权激励 2018年 5月，公司召开第一届董事会第十七次会议。2018年 6月公司召开2018 年第一次临时股东大会，审议通过了员工股权激励方案（以下简称“2018年员工激励方案”），对发行人员工李文发、秦国君、周雪峰、李剑峰进行了股权激励。2018 年 10 月公司先后召开第一届董事会第二十二次会议和 2018 年第三次临时股东大会，对上述股权方案进行了修订。 根据上述激励方案，激励对象李文发、秦国君、周雪峰、李剑峰以 1 元/股的价格认缴发行人新增注册资本共计 120 万元。具体参见本招股书“第四节 发行人基本情况”之“三、发行人股份公司设立后的股东变化情况”之“（二）2018年6月至7月，股份公司增加注册资本暨第二次股权转让”。"
+    ]
+  },
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked",
+    "candidate_snippet_count": 9,
+    "extracted_event_count": 4,
+    "candidate_signal_count": 18,
+    "notes": "第六步从第五步定位章节中抽取 PE/VC 研究相关的股权融资事件池。v5 版本加强了重复事件去重、投资方名称清洗、低质量章节过滤和并列投资金额识别；未披露字段不编造，保留为 null 或“未披露”。 v5.1 clean: normalized processing status and rebuilt investor_overview from clean event investors."
+  },
+  "_meta": {
+    "schema_name": "pevc_research_event_pool",
+    "schema_version": "v5_refined",
+    "generated_at": "2026-06-05 23:14:52",
+    "sample_id": "GEM002",
+    "source_candidate_file": "outputs/week1_candidate_texts/GEM002_301563_candidate.txt"
+  }
+}

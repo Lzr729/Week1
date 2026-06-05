@@ -1,0 +1,532 @@
+{
+  "company": {
+    "company_name": "上海友升铝业股份有限公司",
+    "stock_code": "603418",
+    "exchange": "上海证券交易所",
+    "board": "主板",
+    "listing_date": "2025-09-23",
+    "prospectus_title": "友升股份首次公开发行股票并在主板上市招股说明书",
+    "prospectus_url": "https://static.cninfo.com.cn/finalpage/2025-09-18/1224667002.PDF",
+    "prospectus_version": "未披露",
+    "prospectus_date": "2025-09-18"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2003年",
+      "date_type": "协议签署日",
+      "event_type": "股权转让",
+      "event_nature": "代持解除",
+      "pevc_relevance": "related",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "第一美亚基金",
+          "investor_short_name": "第一美亚基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 100.0,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "陈桂荣",
+          "investor_short_name": "陈桂荣",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 100.0,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "美国日升",
+          "investor_short_name": "美国日升",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 55.0,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "第一美亚",
+          "investor_short_name": "第一美亚",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 100.0,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "（1）代持的形成",
+      "source_page": "未定位",
+      "evidence_text": "## （1）代持的形成 1）2003年 7月 3日，第一美亚基金向陈桂荣转让其所持有第一美亚 100%的股权，存在股权代持的情况 2003 年 7 月 3 日，陈桂荣与第一美亚基金签署了《股权转让协议》，约定第一美亚基金以 6.0753 万美元的价格向陈桂荣转让其所持有第一美亚 100%的股权，陈桂荣间接取得友升有限 55%股权。陈桂荣系罗世兵兄弟之配偶，与罗世兵之间存在委托持股的情况，陈桂荣作为名义股东不实际参与经营管理，双方均确认属于代持。 2）2003年 7月 30日，第一美亚向美国日升转让其所持有的友升有限 55%股权，存在股权代持的情况 2003 年 7 月 30 日，第一美亚与美国日升签署《股权转让协议》，约定第一美亚将其持有的友升有限 55%股权转让给美国日升，第一美亚不再持有友升有限股权，该次转让系由罗世兵同一控制下的两家企业进行的转让，未支付对价。根据公司提供的资料及境外律师出具的境外法律意见书，美国日升成立于2003年 7月 21日，注册地址为美国亚利桑那州，股东和法定代表人为占庆华。占庆华为罗世兵的母亲，其受罗世兵委托于 2003 年 7 月 21 日设立美国日升。本次股权转让后，罗世兵通过美国日升间接持有友升有限 55%股权。占庆华作为名义股东不实际参与经营管理，双方均确认属于代持。",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/MB002_603418_candidate.txt",
+      "raw_amount_candidates": [],
+      "raw_price_candidates": [],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": [
+        "100%",
+        "55%"
+      ]
+    },
+    {
+      "event_order": 2,
+      "event_date": "2020年",
+      "date_type": "协议签署日",
+      "event_type": "增资",
+      "event_nature": "外部投资者进入",
+      "pevc_relevance": "core",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": 115000000.0,
+      "currency": "CNY",
+      "share_price": 8.3333,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "金浦临港基金",
+          "investor_short_name": "金浦临港基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": 15000000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "达晨创联基金",
+          "investor_short_name": "达晨创联基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "金浦科创基金",
+          "investor_short_name": "金浦科创基金",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": 30000000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "上海骁墨",
+          "investor_short_name": "上海骁墨",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": 70000000.0,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "3、2020 年 9 月，增资至 13,380.00 万元",
+      "source_page": "未定位",
+      "evidence_text": "## 3、2020 年 9 月，增资至 13,380.00 万元 2020 年 9 月，金浦临港基金、金浦科创基金和上海骁墨与本次增资前公司股东泽升贸易、罗世兵、共青城泽升、达晨创联基金共同签署《投资协议》，约定金浦临港基金、金浦科创基金和上海骁墨分别以 7,000 万元、3,000 万元和1,500 万元认购发行人新增注册资本 840 万元、360 万元和 180 万元。 2020 年 9 月 27 日，经友升股份 2020 年第二次临时股东大会审议通过，友升股份股本由 12,000万元增加至 13,380万元，新增注册资本由金浦临港基金出资 840 万元、金浦科创基金出资 360 万元、上海骁墨出资 180 万元，出资方式均为货币资金，新增股份的认购价格为 8.3333元/股。 2020年 9月 30日，友升股份完成了上述增资的工商变更登记手续，并取得了由上海市市场监督管理局换发的《营业执照》。 本次增资后，友升股份的股权结构如下：",
+      "confidence": "high",
+      "source_candidate_file": "outputs/week1_candidate_texts/MB002_603418_candidate.txt",
+      "raw_amount_candidates": [
+        "1,500 万元",
+        "12,000万元",
+        "13,380.00 万元",
+        "13,380万元",
+        "180 万元",
+        "3,000 万元",
+        "360 万元",
+        "7,000 万元",
+        "8.3333元",
+        "840 万元"
+      ],
+      "raw_price_candidates": [
+        "认购价格为 8.3333元/股"
+      ],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": []
+    },
+    {
+      "event_order": 3,
+      "event_date": "未披露",
+      "date_type": "股东会决议日",
+      "event_type": "增资",
+      "event_nature": "历史增资",
+      "pevc_relevance": "related",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": 33.6323,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [],
+      "investor_disclosure_status": "未识别到投资方名称",
+      "source_section": "3、新增股东入股原因、入股价格及定价依据",
+      "source_page": "未定位",
+      "evidence_text": "## 3、新增股东入股原因、入股价格及定价依据 入股原因：发行人因业务增长存在资金需求，拟通过股权融资的方式引入外部股东，新增股东看好新能源汽车产业及轻量化零部件的发展前景。 入股价格及定价依据：2022 年 12 月 19 日，经股东大会审议通过，发行人股本由 13,380.00 万元增加至 14,480.1333 万元。本次增资作价为 33.6323 元/股，增资价格系综合参考发行人的经营状况、财务状况、发展预期等因素后由各方协商确定。",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/MB002_603418_candidate.txt",
+      "raw_amount_candidates": [
+        "13,380.00 万元",
+        "14,480.1333 万元",
+        "33.6323 元"
+      ],
+      "raw_price_candidates": [
+        "增资作价为 33.6323 元/股"
+      ],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": []
+    }
+  ],
+  "investor_overview": [
+    {
+      "investor_original_name": "第一美亚基金",
+      "investor_short_name": "第一美亚基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "陈桂荣",
+      "investor_short_name": "陈桂荣",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "美国日升",
+      "investor_short_name": "美国日升",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "第一美亚",
+      "investor_short_name": "第一美亚",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "金浦临港基金",
+      "investor_short_name": "金浦临港基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "达晨创联基金",
+      "investor_short_name": "达晨创联基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "金浦科创基金",
+      "investor_short_name": "金浦科创基金",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "上海骁墨",
+      "investor_short_name": "上海骁墨",
+      "investor_type": "无法判断",
+      "is_pevc": "uncertain",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    }
+  ],
+  "shareholding_and_exit_summary": [
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "目 录",
+      "source_page": "未定位",
+      "evidence_text": "## 目 录 致投资者的声明 ....... 一、发行人上市的目的.... 二、发行人现代企业制度的建立健全情况.... 三、发行人本次融资的必要性及募集资金使用规划.. 四、发行人持续经营能力及未来发展规划.. 发行人声明 ..... 本次发行概况 ... 目 录....... 第一节 释义 ... 11 一、一般释义... .. 11 二、行业术语释义. .. 14 第二节 概览 ..... ....16 一、重大事项提示.. ..... 16 二、发行人及本次发行的中介机构基本情况. .... 18 三、本次发行概况.. ... 19 四、发行人的主营业务经营情况. .. 20 五、发行人符合主板定位情况... .. 27 六、发行人主要财务数据及财务指标.. .. 31 七、发行人财务报告审计截止日后主要财务信息及经营状况. .. 32 八、发行人选择的具体上市标准... .. 34 九、公司治理特殊安排等重要事项... ... 34 十、本次募集资金用途及未来发展规划.... ..."
+    },
+    {
+      "summary_type": "lockup_arrangement",
+      "source_section": "（四）业绩下滑情形相关承诺",
+      "source_page": "未定位",
+      "evidence_text": "## （四）业绩下滑情形相关承诺 本公司提醒投资者关注公司出现上市当年及之后第二年、第三年较上市前一年扣除非经常性损益后归母净利润下滑 50%以上等情形的，延长所持股份锁定期限的相关承诺，详见本招股说明书“附录一：与投资者保护相关的承诺”相关内容。"
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "1、战略配售数量",
+      "source_page": "未定位",
+      "evidence_text": "## 1、战略配售数量 本次公开发行股票 4,826.7111 万股，发行股份占发行后公司股份总数的比例为 25%，全部为公开发行新股，本次发行前股东所持发行人股份在本次发行时不向投资者公开发售。本次公开发行后总股本为 19,306.8444 万股。本次初始战略配售发行数量为965.3422 万股，占本次发行数量的 20.00%。本次发行最终战略配售数量为 690.2499万股，占本次发行数量的 14.30%，初始战略配售股数与最终战略配售股数的差额275.0923万股回拨至网下发行。"
+    },
+    {
+      "summary_type": "lockup_arrangement",
+      "source_section": "5、限售期限",
+      "source_page": "未定位",
+      "evidence_text": "## 5、限售期限 海富通友升资管计划本次获配股票限售期限为自发行人首次公开发行并上市之日起 12 个月。其他参与战略配售的投资者本次获配股票限售期限为自发行人首次公开发行并上市之日起18个月。 限售期届满后，参与战略配售的投资者对获配股份的减持适用中国证监会和上交所关于股份减持的有关规定。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "5、限售期限",
+      "source_page": "未定位",
+      "evidence_text": "## 5、限售期限 海富通友升资管计划本次获配股票限售期限为自发行人首次公开发行并上市之日起 12 个月。其他参与战略配售的投资者本次获配股票限售期限为自发行人首次公开发行并上市之日起18个月。 限售期届满后，参与战略配售的投资者对获配股份的减持适用中国证监会和上交所关于股份减持的有关规定。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（1）代持的形成",
+      "source_page": "未定位",
+      "evidence_text": "## （1）代持的形成 1）2003年 7月 3日，第一美亚基金向陈桂荣转让其所持有第一美亚 100%的股权，存在股权代持的情况 2003 年 7 月 3 日，陈桂荣与第一美亚基金签署了《股权转让协议》，约定第一美亚基金以 6.0753 万美元的价格向陈桂荣转让其所持有第一美亚 100%的股权，陈桂荣间接取得友升有限 55%股权。陈桂荣系罗世兵兄弟之配偶，与罗世兵之间存在委托持股的情况，陈桂荣作为名义股东不实际参与经营管理，双方均确认属于代持。 2）2003年 7月 30日，第一美亚向美国日升转让其所持有的友升有限 55%股权，存在股权代持的情况 2003 年 7 月 30 日，第一美亚与美国日升签署《股权转让协议》，约定第一美亚将其持有的友升有限 55%股权转让给美国日升，第一美亚不再持有友升有限股权，该次转让系由罗世兵同一控制下的两家企业进行的转让，未支付对价。根据公司提供的资料及境外律师出具的境外法律意见书，美国日升成立于2003年 7月 21日，注册地址为美国亚利桑那州，股东和法定代表人为占庆华。占庆华为罗世兵的母亲，其受罗世兵委托于 2003 年 7 月 21 日设立美国日升。本次股权转让后，罗世兵通过美国日升间接持有友升有限 55%股权。占庆华作为名义股东不实际参与经营管理，双方均确认属于代持。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（3）股权代持解除",
+      "source_page": "未定位",
+      "evidence_text": "## （3）股权代持解除 2007 年 8 月，占庆华已将其持有美国日升 100%股权转让予罗世兵，解除上述代持关系。 根据对陈桂荣和罗世兵的访谈，陈桂荣对于前述代罗世兵直接持有第一美亚股权及间接持有友升有限事项不存在任何异议，代持形成及解除过程不存在任何纠纷及潜在纠纷，将来亦不会就代持事项提出任何异议、索赔或权利主张。 占庆华已于 2009 年 5 月去世，根据罗世兵及其兄弟的访谈，占庆华其他继承人均确认对占庆华代罗世兵直接持有美国日升的股权、间接持有友升有限股权及后续将美国日升股权转让予罗世兵不存在任何异议，代持形成及解除过程不存在任何纠纷及潜在纠纷，各方将来亦不会就该等代持事项提出任何异议、索赔或权利主张。 根据上海广虹于2021年8月 21日出具的《关于上海友升铝业股份有限公司历史沿革相关事项的确认函》，上海广虹确认其已知悉罗世兵委托陈桂荣、占庆华间接收购友升有限股权事项，确认对上述股权变动事项不存在任何异议，与发行人股东间不存在任何纠纷或潜在纠纷。 上述股权代持已有效解除，代持形成及解除不存在纠纷及潜在纠纷。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（2）代持的解除",
+      "source_page": "未定位",
+      "evidence_text": "## （2）代持的解除 2020 年 7 月 2 日，李雷因个人职业发展规划原因从公司离职。经李雷与付忠祥协商一致，李雷将共青城泽升 5 万元的出资份额以原价转让予付忠祥，并收到出资款返还97,625.00元，付忠祥与李雷之间的股权代持关系解除。 2021年 5月 31日，万海亮因个人职业发展规划原因从公司离职。经万海亮与付忠祥协商一致，万海亮将共青城泽升 5 万元的出资份额以原价转让予付忠祥，并收到出资款返还 97,625.00 元，付忠祥与万海亮之间的股权代持关系解除。 截至本招股说明书签署之日，付忠祥、李雷、万海亮的股份代持关系已经彻底解除且不可恢复，不存在任何未决事项、其他特殊利益安排、争议或潜在纠纷情形。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "1、实际控制人变更",
+      "source_page": "未定位",
+      "evidence_text": "## 1、实际控制人变更 2003 年 7 月 3 日，第一美亚基金向陈桂荣转让其所持有第一美亚 100%的股权，陈桂荣通过第一美亚间接持有友升有限 55%股权，陈桂荣系罗世兵兄弟之配偶，与罗世兵之间存在委托持股的情况，友升有限实际控制人变更为罗世兵。股权代持情况参见本节“二/（五）发行人历史沿革中存在股份代持的情况”。"
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "1、控股股东",
+      "source_page": "未定位",
+      "evidence_text": "## 1、控股股东 泽升贸易系公司控股股东，截至本招股说明书签署日，泽升贸易持有公司8,976.00万股股份，占本次发行前总股本的 61.99%。泽升贸易基本情况如下："
+    },
+    {
+      "summary_type": "private_fund_check",
+      "source_section": "2、达晨创联基金、财投晨源、深圳达晨创程、杭州达晨创程、达晨财智、财智创赢",
+      "source_page": "未定位",
+      "evidence_text": "## 2、达晨创联基金、财投晨源、深圳达晨创程、杭州达晨创程、达晨财智、财智创赢 达晨创联基金、财投晨源、深圳达晨创程、杭州达晨创程、财智创赢基金管理人均为达晨财智，因此，公司股东达晨创联基金、财投晨源、深圳达晨创 程、杭州达晨创程、财智创赢、达晨财智为一致行动人，上述股东合计持有发行人14.28%股份，为持有发行人 5%以上股份的股东。"
+    },
+    {
+      "summary_type": "private_fund_check",
+      "source_section": "（1）达晨创联基金",
+      "source_page": "未定位",
+      "evidence_text": "## （1）达晨创联基金 截至本招股说明书签署日，达晨创联基金持有本公司 12.43%的股份。达晨创联基金基本情况如下： 达晨创联基金已在中国证券投资基金业协会进行了私募基金备案，其基金管理人深圳市达晨财智创业投资管理有限公司已在中国证券投资基金业协会进行了登记。 截至本招股说明书签署日，达晨创联基金的出资结构如下："
+    },
+    {
+      "summary_type": "private_fund_check",
+      "source_section": "（2）财投晨源",
+      "source_page": "未定位",
+      "evidence_text": "## （2）财投晨源 截至本招股说明书签署日，财投晨源持有本公司 0.62%的股份。财投晨源基本情况如下： 财投晨源已在中国证券投资基金业协会进行了私募基金备案，其基金管理人深圳市达晨财智创业投资管理有限公司已在中国证券投资基金业协会进行了登记。 截至本招股说明书签署日，财投晨源的出资结构如下："
+    },
+    {
+      "summary_type": "private_fund_check",
+      "source_section": "（3）深圳达晨创程",
+      "source_page": "未定位",
+      "evidence_text": "## （3）深圳达晨创程 截至本招股说明书签署日，深圳达晨创程持有本公司 0.60%的股份。深圳达晨创程基本情况如下： 深圳达晨创程已在中国证券投资基金业协会进行了私募基金备案，其基金管理人深圳市达晨财智创业投资管理有限公司已在中国证券投资基金业协会进行了登记。 截至本招股说明书签署日，深圳达晨创程的出资结构如下："
+    },
+    {
+      "summary_type": "private_fund_check",
+      "source_section": "（4）杭州达晨创程",
+      "source_page": "未定位",
+      "evidence_text": "## （4）杭州达晨创程 截至本招股说明书签署日，杭州达晨创程持有本公司 0.36%的股份。杭州达晨创程基本情况如下： 杭州达晨创程已在中国证券投资基金业协会进行了私募基金备案，其基金管理人深圳市达晨财智创业投资管理有限公司已在中国证券投资基金业协会进行了登记。 截至本招股说明书签署日，杭州达晨创程的出资结构如下："
+    }
+  ],
+  "candidate_evidence_summary": {
+    "has_candidate_text": true,
+    "candidate_snippet_count": 7,
+    "detected_keywords": [
+      "股票发行",
+      "发行股票",
+      "新增注册资本",
+      "增加注册资本",
+      "增资",
+      "认购",
+      "出资款",
+      "股权转让",
+      "转让协议",
+      "受让",
+      "创业投资",
+      "投资基金",
+      "私募基金",
+      "投资有限公司",
+      "投资管理有限公司",
+      "基金管理有限公司"
+    ],
+    "detected_investor_names": [
+      "3）杉创智至的基金管理人为上海杉杉创晖创业投资管理有限公司",
+      "3）杉晖创业的基金管理人为上海杉杉创晖创业投资管理有限公司",
+      "3）达晨财汇的基金管理人为深圳市达晨创业投资有限公司",
+      "达晨创联基金",
+      "8月至今任深圳市达晨财智创业投资管理有限公司",
+      "两家基金管理人同为上海金浦智能科技投资管理有限公司",
+      "国证券投资基金",
+      "以上股份的股东达晨创联基金",
+      "公司股东达晨创联基金",
+      "其基金管理人上海金浦智能科技投资管理有限公司已在中国证券投资基金",
+      "其基金管理人深圳市达晨财智创业投资管理有限公司已在中国证券投资基金",
+      "名并均已办理了私募基金",
+      "国家级大型投资基金",
+      "实际支配主体为海富通基金管理有限公司",
+      "金浦临港基金",
+      "达晨财汇之基金管理人深圳市达晨创业投资有限公司",
+      "杉晖创业",
+      "杉创智至的执行事务合伙人兼基金管理人为上海杉杉创晖创业投资管理有限公司",
+      "杭州达晨创程已在中国证券投资基金业协会进行了私募基金",
+      "海富通基金管理有限公司",
+      "深圳达晨创程已在中国证券投资基金业协会进行了私募基金",
+      "私募基金",
+      "基金",
+      "第一美亚基金",
+      "财投晨源已在中国证券投资基金业协会进行了私募基金",
+      "财智创赢",
+      "发起人股东达晨创联基金的执行事务合伙人兼基金",
+      "财智创赢基金",
+      "财智创赢已在中国证券投资基金业协会进行了私募基金",
+      "达晨创联基金已在中国证券投资基金业协会进行了私募基金",
+      "达晨财智已办理私募基金",
+      "金浦科创基金",
+      "金浦科创基金的基金管理人均为上海金浦智能科技投资管理有限公司",
+      "金浦临港基金已在中国证券投资基金业协会进行了私募基金",
+      "金浦科创基金已在中国证券投资基金业协会进行了私募基金",
+      "陈桂荣",
+      "1）达晨创联基金",
+      "1）金浦临港基金",
+      "2）金浦科创基金",
+      "美国日升"
+    ],
+    "detected_amount_or_price_values": [
+      "0.00万元",
+      "1 亿元",
+      "1,000.00 万元",
+      "1,000万元",
+      "1,051.87万元",
+      "1,200万元",
+      "1,225.42 万元",
+      "1,311.31 万元",
+      "1,345.50 万元",
+      "1,357.62 万元",
+      "1,396.87 万元",
+      "1,432.67 万元",
+      "1,436.93 万元",
+      "1,482.50 万元",
+      "1,500 万元",
+      "1,554.49 万元",
+      "1.00 元",
+      "1.84 万元",
+      "10 万元",
+      "10,000 元",
+      "10.13 万元",
+      "100 万元",
+      "100元",
+      "10亿元",
+      "12,000.00 万元",
+      "12,000万元",
+      "12,092.96 万元",
+      "12,563.44 万元",
+      "123,501.58 万元",
+      "128,339.09 万元"
+    ],
+    "detected_ratio_values": [
+      "0.00079%",
+      "0.02%",
+      "0.04%",
+      "0.07%",
+      "0.21%",
+      "0.27%",
+      "0.36%",
+      "0.5%",
+      "0.58%",
+      "0.59%",
+      "0.60%",
+      "0.61%",
+      "0.62%",
+      "0.67%",
+      "0.70%",
+      "0.75%",
+      "0.85%",
+      "0.87%",
+      "1.11%",
+      "1.41%",
+      "1.44%",
+      "10%",
+      "10.07%",
+      "10.78%",
+      "100%",
+      "102.74%",
+      "104.00%",
+      "11.14%",
+      "11.40%",
+      "12.30%"
+    ],
+    "top_candidate_evidence": [
+      "## 3、2020 年 9 月，增资至 13,380.00 万元 2020 年 9 月，金浦临港基金、金浦科创基金和上海骁墨与本次增资前公司股东泽升贸易、罗世兵、共青城泽升、达晨创联基金共同签署《投资协议》，约定金浦临港基金、金浦科创基金和上海骁墨分别以 7,000 万元、3,000 万元和1,500 万元认购发行人新增注册资本 840 万元、360 万元和 180 万元。 2020 年 9 月 27 日，经友升股份 2020 年第二次临时股东大会审议通过，友升股份股本由 12,000万元增加至 13,380万元，新增注册资本由金浦临港基金出资 840 万元、金浦科创基金出资 360 万元、上海骁墨出资 180 万元，出资方式均为货币资金，新增股份的认购价格为 8.3333元/股。 2020年 9月 30日，友升股份完成了上述增资的工商变更登记手续，并取得了由上海市市场监督管理局换发的《营业执照》。 本次增资后，友升股份的股权结构如下：",
+      "## （1）代持的形成 1）2003年 7月 3日，第一美亚基金向陈桂荣转让其所持有第一美亚 100%的股权，存在股权代持的情况 2003 年 7 月 3 日，陈桂荣与第一美亚基金签署了《股权转让协议》，约定第一美亚基金以 6.0753 万美元的价格向陈桂荣转让其所持有第一美亚 100%的股权，陈桂荣间接取得友升有限 55%股权。陈桂荣系罗世兵兄弟之配偶，与罗世兵之间存在委托持股的情况，陈桂荣作为名义股东不实际参与经营管理，双方均确认属于代持。 2）2003年 7月 30日，第一美亚向美国日升转让其所持有的友升有限 55%股权，存在股权代持的情况 2003 年 7 月 30 日，第一美亚与美国日升签署《股权转让协议》，约定第一美亚将其持有的友升有限 55%股权转让给美国日升，第一美亚不再持有友升有限股权，该次转让系由罗世兵同一控制下的两家企业进行的转让，未支付对价。根据公司提供的资料及境外律师出具的境外法律意见书，美国日升成立于2003年 7月 21日，注册地址为美国亚利桑那州，股东和法定代表人为占庆华。占庆华为罗世兵的母亲，其受罗世兵委托于 2003 年 7 月 21 日设立美国日升。本次股权转让后，罗世兵通过美国日升间接持有友升有限 55%股权。占庆华作为名义股东不实际参与经营管理，双方均确认属于代持。",
+      "## （3）股权代持解除 2007 年 8 月，占庆华已将其持有美国日升 100%股权转让予罗世兵，解除上述代持关系。 根据对陈桂荣和罗世兵的访谈，陈桂荣对于前述代罗世兵直接持有第一美亚股权及间接持有友升有限事项不存在任何异议，代持形成及解除过程不存在任何纠纷及潜在纠纷，将来亦不会就代持事项提出任何异议、索赔或权利主张。 占庆华已于 2009 年 5 月去世，根据罗世兵及其兄弟的访谈，占庆华其他继承人均确认对占庆华代罗世兵直接持有美国日升的股权、间接持有友升有限股权及后续将美国日升股权转让予罗世兵不存在任何异议，代持形成及解除过程不存在任何纠纷及潜在纠纷，各方将来亦不会就该等代持事项提出任何异议、索赔或权利主张。 根据上海广虹于2021年8月 21日出具的《关于上海友升铝业股份有限公司历史沿革相关事项的确认函》，上海广虹确认其已知悉罗世兵委托陈桂荣、占庆华间接收购友升有限股权事项，确认对上述股权变动事项不存在任何异议，与发行人股东间不存在任何纠纷或潜在纠纷。 上述股权代持已有效解除，代持形成及解除不存在纠纷及潜在纠纷。",
+      "## 3、新增股东入股原因、入股价格及定价依据 入股原因：发行人因业务增长存在资金需求，拟通过股权融资的方式引入外部股东，新增股东看好新能源汽车产业及轻量化零部件的发展前景。 入股价格及定价依据：2022 年 12 月 19 日，经股东大会审议通过，发行人股本由 13,380.00 万元增加至 14,480.1333 万元。本次增资作价为 33.6323 元/股，增资价格系综合参考发行人的经营状况、财务状况、发展预期等因素后由各方协商确定。"
+    ]
+  },
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked",
+    "candidate_snippet_count": 7,
+    "extracted_event_count": 3,
+    "candidate_signal_count": 16,
+    "notes": "第六步从第五步定位章节中抽取 PE/VC 研究相关的股权融资事件池。v5 版本加强了重复事件去重、投资方名称清洗、低质量章节过滤和并列投资金额识别；未披露字段不编造，保留为 null 或“未披露”。 v5.1 clean: normalized processing status and rebuilt investor_overview from clean event investors."
+  },
+  "_meta": {
+    "schema_name": "pevc_research_event_pool",
+    "schema_version": "v5_refined",
+    "generated_at": "2026-06-05 23:14:53",
+    "sample_id": "MB002",
+    "source_candidate_file": "outputs/week1_candidate_texts/MB002_603418_candidate.txt"
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "company": {
+    "company_name": "苏州赛分科技股份有限公司",
+    "stock_code": "688758",
+    "exchange": "上海证券交易所",
+    "board": "科创板",
+    "listing_date": "2025-01-10",
+    "prospectus_title": "赛分科技首次公开发行股票并在科创板上市招股说明书",
+    "prospectus_url": "https://static.cninfo.com.cn/finalpage/2025-01-06/1222238930.PDF",
+    "prospectus_version": "未披露",
+    "prospectus_date": "2025-01-06"
+  },
+  "financing_events": [
+    {
+      "event_order": 1,
+      "event_date": "2015年8月",
+      "date_type": "协议签署日",
+      "event_type": "增资及股权转让",
+      "event_nature": "外部投资者进入",
+      "pevc_relevance": "core",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "高新同华",
+          "investor_short_name": "高新同华",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "黄学英",
+          "investor_short_name": "黄学英",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": 0.8,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "2、2021年 8月，报告期内第二次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "2、2021年 8月，报告期内第二次股权转让 2021年7月10日，赛分有限召开股东会并作出决议，同意黄学英将其持有的公司 0.8%的注册资本 22.00 万元以人民币 0 元的价格转让给高新同华。本次股权转让系为解决公司与高新同华之间的业绩承诺与补偿事宜。 2021年7月10日，赛分有限、高新同华与黄学英签署《增资协议之补充协议》，约定终止各方于 2015 年 7 月签署的《投资合作框架协议》中第四条“业绩承诺”和各方于2015年8月签署的《增资协议》中第五条“业绩承诺和补偿”，各方不再根据被终止条款享有任何权利或承担任何义务，作为补偿，黄学英同意以合计人民币0元的价格向高新同华转让其所持有的赛分有限22万元注册资本， 双方将另行签署《股权转让协议》。 黄学英与高新同华就上述股权转让事宜签署了《股权转让协议》，就该次股权转让事项，黄学英已经取得了免税证明。 本次股权转让后，赛分有限的股权结构如下：",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/STAR001_688758_candidate.txt",
+      "raw_amount_candidates": [
+        "0 元",
+        "0元",
+        "22.00 万元",
+        "22万元"
+      ],
+      "raw_price_candidates": [],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": [
+        "0.8%"
+      ]
+    },
+    {
+      "event_order": 2,
+      "event_date": "2021年",
+      "date_type": "协议签署日",
+      "event_type": "增资",
+      "event_nature": "外部投资者进入",
+      "pevc_relevance": "core",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "shares_issued_or_transferred": 4243901.0,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "源峰磐赛",
+          "investor_short_name": "源峰磐赛",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "珠海峦恒",
+          "investor_short_name": "珠海峦恒",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "高瓴祈睿",
+          "investor_short_name": "高瓴祈睿",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "国药中生",
+          "investor_short_name": "国药中生",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "圣成投资",
+          "investor_short_name": "圣成投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "国药二期",
+          "investor_short_name": "国药二期",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "圣祁投资",
+          "investor_short_name": "圣祁投资",
+          "investor_type": "无法判断",
+          "is_pevc": "uncertain",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "夏尔巴二期",
+          "investor_short_name": "夏尔巴二期",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "甘李药业",
+          "investor_short_name": "甘李药业",
+          "investor_type": "产业资本",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "吴征涛",
+          "investor_short_name": "吴征涛",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "4、2021 年 11 月，报告期内第二次增资",
+      "source_page": "未定位",
+      "evidence_text": "## 4、2021 年 11 月，报告期内第二次增资 2021年10月28日，赛分科技召开 2021年第一次临时股东大会，决议同意赛分科技增发股份 4,243,901 股，新增股份由新增股东源峰磐赛、珠海峦恒、高瓴祈睿、国药中生、圣成投资、国药二期、圣祁投资、夏尔巴二期、甘李药业、吴征涛认购。 2021 年 10 月 28 日，上述新增股东与赛分科技签署了《增资协议》。截至2021年11月，上述新增股东已支付完毕全部增资款。 本次增资具体情况如下： 注：上述表格中增资单价和增资金额之间的细微差异，系计算过程四舍五入造成。 2021 年 11 月 10 日，赛分科技取得了江苏省市场监督管理局换发的《营业执照》。 本次增资完成后，赛分科技的股权结构如下：",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/STAR001_688758_candidate.txt",
+      "raw_amount_candidates": [],
+      "raw_price_candidates": [],
+      "raw_share_candidates": [
+        "股份 4,243,901 股"
+      ],
+      "raw_ratio_candidates": []
+    },
+    {
+      "event_order": 3,
+      "event_date": "2021年2月22日",
+      "date_type": "协议签署日",
+      "event_type": "股权转让",
+      "event_nature": "股权结构调整",
+      "pevc_relevance": "related",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "复星惟盈",
+          "investor_short_name": "复星惟盈",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "朱勤华",
+          "investor_short_name": "朱勤华",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "唐斌",
+          "investor_short_name": "唐斌",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "张敏",
+          "investor_short_name": "张敏",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        },
+        {
+          "investor_original_name": "黄学英",
+          "investor_short_name": "黄学英",
+          "investor_type": "自然人",
+          "is_pevc": "no",
+          "investment_amount": 5882051.4,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "（1）报告期内第一次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （1）报告期内第一次股权转让 2021年2月22日，赛分有限召开股东会并作出决议，同意黄学英将其持有的赛分有限 58.2243 万元注册资本分别转让给复星惟盈、朱勤华、唐斌及张敏。 2021 年 1 月，黄学英与朱勤华签署了《股权转让协议》，2021 年 2 月 24 日，黄学英与复星惟盈、唐斌、张敏签署了《股权转让协议》。 具体情况如下： 注：上述表格中转让单价和转让金额之间的细微差异，系计算过程四舍五入造成。 2021 年 3 月，上述股权受让方将股权转让款项支付给黄学英。根据国家税务总局苏州工业园区税务局第一税务所出具的完税证明，黄学英已就上述股权转让事项缴纳了个人所得税 5,882,051.40 元。",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/STAR001_688758_candidate.txt",
+      "raw_amount_candidates": [
+        "5,882,051.40 元",
+        "58.2243 万元"
+      ],
+      "raw_price_candidates": [],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": []
+    },
+    {
+      "event_order": 4,
+      "event_date": "2021年2月25日",
+      "date_type": "协议签署日",
+      "event_type": "增资及股权转让",
+      "event_nature": "外部投资者进入",
+      "pevc_relevance": "core",
+      "disclosed_round": "未披露",
+      "inferred_round": "",
+      "round_inference_basis": "",
+      "total_investment_amount": null,
+      "currency": "CNY",
+      "share_price": null,
+      "shares_issued_or_transferred": null,
+      "pre_money_valuation": null,
+      "post_money_valuation": null,
+      "valuation_basis": "招股书未披露投前估值或投后估值",
+      "investors": [
+        {
+          "investor_original_name": "复星惟盈",
+          "investor_short_name": "复星惟盈",
+          "investor_type": "VC/PE",
+          "is_pevc": "yes",
+          "investment_amount": null,
+          "shares_acquired": null,
+          "shareholding_ratio_after_event": null,
+          "exit_status_before_ipo": "无法判断"
+        }
+      ],
+      "investor_disclosure_status": "已识别投资方名称",
+      "source_section": "（2）报告期内第一次增资",
+      "source_page": "未定位",
+      "evidence_text": "## （2）报告期内第一次增资 2021年2月25日，赛分有限召开股东会并作出决议，同意公司注册资本增加 342.6769 万元至 2,750.6769 万元。新增的 342.6769 万元注册资本由国寿疌泉、复星惟盈、唐斌、张敏以人民币 1.85亿元认购。 2021年2月26日，国寿疌泉、复星惟盈、唐斌、张敏与发行人签署了《关于苏州赛分科技有限公司之增资协议》。 本次增资具体情况如下： 注：上述表格中增资单价和增资金额之间的细微差异，系计算过程四舍五入造成。 2021 年 3 月 9 日，国寿疌泉、复星惟盈、唐斌、张敏向公司支付完毕全部增资款。 2021年4月20日，公司就股权转让和增资事项办理完毕工商变更登记手续，取得了苏州工业园区市场监督管理局换发的《营业执照》。 本次增资和股权转让完成后，赛分有限的股权结构如下：",
+      "confidence": "medium",
+      "source_candidate_file": "outputs/week1_candidate_texts/STAR001_688758_candidate.txt",
+      "raw_amount_candidates": [
+        "1.85亿元",
+        "2,750.6769 万元",
+        "342.6769 万元"
+      ],
+      "raw_price_candidates": [],
+      "raw_share_candidates": [],
+      "raw_ratio_candidates": []
+    }
+  ],
+  "investor_overview": [
+    {
+      "investor_original_name": "高新同华",
+      "investor_short_name": "高新同华",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        1
+      ]
+    },
+    {
+      "investor_original_name": "黄学英",
+      "investor_short_name": "黄学英",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 2,
+      "related_event_orders": [
+        1,
+        3
+      ]
+    },
+    {
+      "investor_original_name": "源峰磐赛",
+      "investor_short_name": "源峰磐赛",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "珠海峦恒",
+      "investor_short_name": "珠海峦恒",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "高瓴祈睿",
+      "investor_short_name": "高瓴祈睿",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "国药中生",
+      "investor_short_name": "国药中生",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "圣成投资",
+      "investor_short_name": "圣成投资",
+      "investor_type": "无法判断",
+      "is_pevc": "uncertain",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "国药二期",
+      "investor_short_name": "国药二期",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "圣祁投资",
+      "investor_short_name": "圣祁投资",
+      "investor_type": "无法判断",
+      "is_pevc": "uncertain",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "夏尔巴二期",
+      "investor_short_name": "夏尔巴二期",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "甘李药业",
+      "investor_short_name": "甘李药业",
+      "investor_type": "产业资本",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "吴征涛",
+      "investor_short_name": "吴征涛",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        2
+      ]
+    },
+    {
+      "investor_original_name": "复星惟盈",
+      "investor_short_name": "复星惟盈",
+      "investor_type": "VC/PE",
+      "is_pevc": "yes",
+      "event_count": 2,
+      "related_event_orders": [
+        3,
+        4
+      ]
+    },
+    {
+      "investor_original_name": "朱勤华",
+      "investor_short_name": "朱勤华",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        3
+      ]
+    },
+    {
+      "investor_original_name": "唐斌",
+      "investor_short_name": "唐斌",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        3
+      ]
+    },
+    {
+      "investor_original_name": "张敏",
+      "investor_short_name": "张敏",
+      "investor_type": "自然人",
+      "is_pevc": "no",
+      "event_count": 1,
+      "related_event_orders": [
+        3
+      ]
+    }
+  ],
+  "shareholding_and_exit_summary": [
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "目 录",
+      "source_page": "未定位",
+      "evidence_text": "## 目 录 致投资者的声明 .. 重要声明 ......... 本次发行概况... .. 5 目 录....... ... 6 第一节 释 义 .... ... 11 一、一般术语.. .. 11 二、专业术语. ... 14 第二节 概 览 ..... .... 17 一、重大事项提示. ... 17 二、公司及本次发行的中介机构基本情况. ..... 25 三、本次发行的概况.... ... 26 四、发行人主营业务经营情况.. .. 31 五、发行人符合科创板定位相关情况.. .. 33 六、公司报告期内的主要财务数据及财务指标. .. 34 七、发行人选择的具体上市标准...... .. 34 八、发行人公司治理特殊安排等重要事项. .. 35 九、募集资金的用途与未来发展规划.. .. 35 十、其他对发行人有重大影响的事项. .. 36 第三节 风险因素..... ... 37 一、与发行人相关的风险... .. 37 二、与行业相关的风险....... ... 44 三、..."
+    },
+    {
+      "summary_type": "lockup_arrangement",
+      "source_section": "（一）本次发行相关主体作出的重要承诺",
+      "source_page": "未定位",
+      "evidence_text": "## （一）本次发行相关主体作出的重要承诺 发行人实际控制人及其一致行动人已分别作出业绩下滑情形的相关承诺，主要内容如下：“发行人若出现上市当年及之后第二年、第三年较上市前一年扣除非经常性损益后归母净利润下滑 50%以上情形的，本人/本企业将按以下方式延长其届时所持股份（上市前取得，上市当年及之后第二年、第三年年报披露时仍持有的股份）的锁定期限： 1、发行人上市当年较上市前一年净利润下滑 50%以上的，延长本人/本企业届时所持股份锁定期限12个月； 2、发行人上市第二年较上市前一年净利润下滑 50%以上的，在前项基础上延长本人/本企业届时所持股份锁定期限 12个月； 3、发行人上市第三年较上市前一年净利润下滑 50%以上的，在前两项基础上延长本人/本企业届时所持股份锁定期限 12个月。” 本公司提示投资者认真阅读本公司、股东、实际控制人、董事、监事、高级管理人员、其他核心人员以及本次发行的保荐人及证券服务机构等作出的重要承诺和未能履行承诺的约束措施，具体承诺事项详见本招股说明书之“第九节 投资者保护”之“九、发行人、股东、实际控制人、发行人的董事、监事、高级管理人员、核心技术人员以及本次发行的保荐人及证券服务机构等作出的重要承诺”。"
+    },
+    {
+      "summary_type": "lockup_arrangement",
+      "source_section": "4、配售条件",
+      "source_page": "未定位",
+      "evidence_text": "## 4、配售条件 参与本次战略配售的投资者已与发行人签署战略配售协议，不参加本次发行初步询价，并承诺按照发行人和保荐人（主承销商）确定的发行价格认购其承诺认购的股票数量，并在规定时间内足额缴付认购资金。 2024 年 12 月 20 日（T-6 日）公布的《苏州赛分科技股份有限公司首次公开发行股票并在科创板上市发行安排及初步询价公告》已披露战略配售方式、战略配售股票数量上限、参与战略配售的投资者选取标准等。 2024年12月25日（T-3 日）前（含当日），参与战略配售的投资者已向保荐人（主承销商）及时足额缴纳认购资金。保荐人（主承销商）在确定发行价格后根据本次发行定价情况确定各参与战略配售的投资者最终配售金额、配售数量，因参与战略配售的投资者获配金额低于其预缴的金额，保荐人（主承销商）已及时退回差额。 2024 年 12 月 27 日（T-1 日）公布的《苏州赛分科技股份有限公司首次公开发行股票并在科创板上市发行公告》（以下简称“《发行公告》”）已披露参与战略配售的投资者名称、承诺认购的股票数量以及限售期安排等。2025年1月2日（T+2 日）公布的《苏州赛分科技股份有限公司首次公开发行股票并在科创板上市网下初步配售结果及网上中签结果公告》（以下简称“《网下初步配售结果及网上中签结果公告》”）已披露最终获配的参与战略配售的投资者名称、股票数量以及限售期安排等。"
+    },
+    {
+      "summary_type": "lockup_arrangement",
+      "source_section": "5、限售期限",
+      "source_page": "未定位",
+      "evidence_text": "## 5、限售期限 中证投资本次跟投获配股票限售期限为自发行人首次公开发行并上市之日起 24 个月。 共赢 37 号本次获配股票限售期限为自发行人首次公开发行并上市之日起 12个月。 限售期届满后，参与战略配售的投资者对获配股份的减持适用中国证监会和上交所关于股份减持的有关规定。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "5、限售期限",
+      "source_page": "未定位",
+      "evidence_text": "## 5、限售期限 中证投资本次跟投获配股票限售期限为自发行人首次公开发行并上市之日起 24 个月。 共赢 37 号本次获配股票限售期限为自发行人首次公开发行并上市之日起 12个月。 限售期届满后，参与战略配售的投资者对获配股份的减持适用中国证监会和上交所关于股份减持的有关规定。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（三）报告期内的股本和股东变化情况",
+      "source_page": "未定位",
+      "evidence_text": "## （三）报告期内的股本和股东变化情况 报告期初，公司注册资本 2,408.00 万元，其股权结构如下： 报告期内，公司进行了 3 次增资、2 次股权转让、1 次资本公积转增股本；报告期内，公司改制为股份有限公司；报告期末至本招股说明书签署日，公司股本和股东未发生变化。报告期内的股本和股东变化情况如下： 1、2021 年 4 月，报告期内第一次股权转让及第一次增资"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（1）报告期内第一次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## （1）报告期内第一次股权转让 2021年2月22日，赛分有限召开股东会并作出决议，同意黄学英将其持有的赛分有限 58.2243 万元注册资本分别转让给复星惟盈、朱勤华、唐斌及张敏。 2021 年 1 月，黄学英与朱勤华签署了《股权转让协议》，2021 年 2 月 24 日，黄学英与复星惟盈、唐斌、张敏签署了《股权转让协议》。 具体情况如下： 注：上述表格中转让单价和转让金额之间的细微差异，系计算过程四舍五入造成。 2021 年 3 月，上述股权受让方将股权转让款项支付给黄学英。根据国家税务总局苏州工业园区税务局第一税务所出具的完税证明，黄学英已就上述股权转让事项缴纳了个人所得税 5,882,051.40 元。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "（2）报告期内第一次增资",
+      "source_page": "未定位",
+      "evidence_text": "## （2）报告期内第一次增资 2021年2月25日，赛分有限召开股东会并作出决议，同意公司注册资本增加 342.6769 万元至 2,750.6769 万元。新增的 342.6769 万元注册资本由国寿疌泉、复星惟盈、唐斌、张敏以人民币 1.85亿元认购。 2021年2月26日，国寿疌泉、复星惟盈、唐斌、张敏与发行人签署了《关于苏州赛分科技有限公司之增资协议》。 本次增资具体情况如下： 注：上述表格中增资单价和增资金额之间的细微差异，系计算过程四舍五入造成。 2021 年 3 月 9 日，国寿疌泉、复星惟盈、唐斌、张敏向公司支付完毕全部增资款。 2021年4月20日，公司就股权转让和增资事项办理完毕工商变更登记手续，取得了苏州工业园区市场监督管理局换发的《营业执照》。 本次增资和股权转让完成后，赛分有限的股权结构如下："
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "2、2021年 8月，报告期内第二次股权转让",
+      "source_page": "未定位",
+      "evidence_text": "## 2、2021年 8月，报告期内第二次股权转让 2021年7月10日，赛分有限召开股东会并作出决议，同意黄学英将其持有的公司 0.8%的注册资本 22.00 万元以人民币 0 元的价格转让给高新同华。本次股权转让系为解决公司与高新同华之间的业绩承诺与补偿事宜。 2021年7月10日，赛分有限、高新同华与黄学英签署《增资协议之补充协议》，约定终止各方于 2015 年 7 月签署的《投资合作框架协议》中第四条“业绩承诺”和各方于2015年8月签署的《增资协议》中第五条“业绩承诺和补偿”，各方不再根据被终止条款享有任何权利或承担任何义务，作为补偿，黄学英同意以合计人民币0元的价格向高新同华转让其所持有的赛分有限22万元注册资本， 双方将另行签署《股权转让协议》。 黄学英与高新同华就上述股权转让事宜签署了《股权转让协议》，就该次股权转让事项，黄学英已经取得了免税证明。 本次股权转让后，赛分有限的股权结构如下："
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "三、公司成立以来重要事件",
+      "source_page": "未定位",
+      "evidence_text": "## 三、公司成立以来重要事件 2011年10月，赛分有限以 170万美元向黄学英/刘鸿雁、陆民、周乃鼎、史建伟、Cheer Rise Consultants Limited 收购美国赛分 79,399 股股份，占美国赛分股份总数的100%。该次股份收购后，赛分有限持有美国赛分 100%的股份。 具体转让情况如下： 该次股份转让后，美国赛分已发行的股份情况如下："
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "六、公司实际控制人及持有公司 5%以上股份的主要股东情况",
+      "source_page": "未定位",
+      "evidence_text": "## 六、公司实际控制人及持有公司 5%以上股份的主要股东情况"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "1、苏州贤达",
+      "source_page": "未定位",
+      "evidence_text": "## 1、苏州贤达 截至本招股说明书签署之日，苏州贤达股权结构如下： 注 1：苏州贤达人员构成系发行人国外员工。其中：TAH BEN HSU 自 2014 年至 2019年底担任美国赛分顾问，非美国赛分正式员工，基于其对公司业务的贡献，向其授予合伙企业份额；YI HUANG 自 2009 年入职美国赛分担任会计，2014年离职后一直担任公司的财务顾问，基于其对公司业务的贡献，向其授予合伙企业份额。 注 2：2024 年 2 月，发行人员工 JIAN XU 离职，其所持有的苏州贤达合伙份额转让给普通合伙人黄学英。"
+    },
+    {
+      "summary_type": "exit_arrangement",
+      "source_section": "3、员工持股计划遵循“闭环原则”",
+      "source_page": "未定位",
+      "evidence_text": "## 3、员工持股计划遵循“闭环原则” 公司股权激励方案约定：在赛分科技上市或者被并购之前，有限合伙人可以选择全部或者部分转让本合伙企业股权份额，只能转让给普通合伙人（即黄学英），普通合伙人需要出资购买有限合伙人的份额。 苏州贤达、苏州杰贤承诺，自发行人股票上市之日起 36 个月内，不转让或者委托他人管理直接和间接持有的发行人首次公开发行股票前已发行股份，也不由发行人回购该部分股份。"
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（三）其他持有公司 5%以上股份的主要股东情况",
+      "source_page": "未定位",
+      "evidence_text": "## （三）其他持有公司 5%以上股份的主要股东情况 截至本招股说明书签署日，公司除控股股东外，直接或间接持股比例超过5%的其他主要股东及其关联方情况如下："
+    },
+    {
+      "summary_type": "pre_ipo_shareholding",
+      "source_section": "（一）本次发行前后的股本结构",
+      "source_page": "未定位",
+      "evidence_text": "## （一）本次发行前后的股本结构 本次发行前，公司总股本为 366,488,394 股。本次向社会公众发行 49,975,690股，占发行完成后公司总股本的比例约为 12.00%。本次发行前后公司股本结构如下："
+    }
+  ],
+  "candidate_evidence_summary": {
+    "has_candidate_text": true,
+    "candidate_snippet_count": 9,
+    "detected_keywords": [
+      "股票发行",
+      "发行股票",
+      "增资",
+      "认购",
+      "股权转让",
+      "股份转让",
+      "转让协议",
+      "受让",
+      "A+轮融资",
+      "创业投资",
+      "股权投资",
+      "投资基金",
+      "私募基金",
+      "合伙企业",
+      "投资有限公司",
+      "投资管理有限公司",
+      "基金管理有限公司"
+    ],
+    "detected_investor_names": [
+      "上海元光投资有限公司",
+      "上述股东均已在中国证券投资基金",
+      "中信建投基金",
+      "中信建投基金管理有限公司",
+      "公募基金",
+      "公司收到上市专项基金",
+      "其资产亦未委托基金",
+      "华泰大健康二号的基金",
+      "南京华泰瑞通投资管理有限公司",
+      "其授予合伙企业",
+      "国寿疌泉的基金管理人国寿股权投资有限公司已在中国证券投资基金",
+      "国寿疌泉的普通合伙人为国寿（江苏）股权投资有限公司",
+      "国药中生",
+      "国药二期的基金管理人上海健壹私募基金管理有限公司已在中国证券投资基金",
+      "复星惟盈的基金管理人上海复星创富投资管理股份有限公司已在中国证券投资基金",
+      "夏尔巴二期的基金管理人珠海夏尔巴股权投资管理有限公司已在中国证券投资基金",
+      "已在中国证券投资基金",
+      "现任南京华泰瑞兴投资管理有限公司",
+      "现任国寿股权投资有限公司",
+      "基金",
+      "聚贝投资的基金管理人北京宏儒",
+      "愉投资管理有限公司已在中国证券投资基金",
+      "苏州敦行价值创业投资合伙企业（有限合伙）",
+      "苏州敦行价值投资合伙企业（有限合伙）",
+      "苏州敦行办理基金",
+      "苏州敦行属于私募基金",
+      "苏州敦行的基金管理人苏州敦行投资管理有限公司已在中国证券投资基金",
+      "苏州杰贤投资合伙企业（有限合伙）",
+      "苏州贤达两个合伙企业",
+      "苏州贤达投资合伙企业（有限合伙）",
+      "高新同华名称由安徽高新同华创业投资基金",
+      "高瓴祈睿的基金管理人珠海高瓴股权投资管理有限公司已在中国证券投资基金",
+      "时足额",
+      "黄学英",
+      "沈建林",
+      "高新同华",
+      "社会公众",
+      "美国赛分",
+      "肖伟忠",
+      "刘冰重新"
+    ],
+    "detected_amount_or_price_values": [
+      "0 万元",
+      "0 元",
+      "0.43万元",
+      "0万元",
+      "0元",
+      "1 亿元",
+      "1 元",
+      "1,000 万元",
+      "1,000,000元",
+      "1,016.25 万元",
+      "1,093.25 万元",
+      "1,138.67 万元",
+      "1,157.28万元",
+      "1,276.16万元",
+      "1,305.10 万元",
+      "1,360.12 万元",
+      "1,362.34万元",
+      "1,403.12万元",
+      "1,500 万元",
+      "1,663.20万元",
+      "1,854.77 万元",
+      "1.0614 万元",
+      "1.41 万元",
+      "1.60 万元",
+      "1.85亿元",
+      "10 亿元",
+      "10,000,000 元",
+      "10,794,751.20 元",
+      "103.71 万元",
+      "104,792.23 万元"
+    ],
+    "detected_ratio_values": [
+      "0.02%",
+      "0.09%",
+      "0.1%",
+      "0.11%",
+      "0.14%",
+      "0.17%",
+      "0.18%",
+      "0.37%",
+      "0.38%",
+      "0.44%",
+      "0.68%",
+      "0.71%",
+      "0.8%",
+      "0.82%",
+      "0.95%",
+      "1%",
+      "1.00%",
+      "1.02%",
+      "1.06%",
+      "1.19%",
+      "1.20%",
+      "1.26%",
+      "1.32%",
+      "1.38%",
+      "1.49%",
+      "1.64%",
+      "1.76%",
+      "1.98%",
+      "10%",
+      "10.00%"
+    ],
+    "top_candidate_evidence": [
+      "## （一）发行失败风险 本次发行公司选择的具体上市标准为“预计市值不低于人民币 10 亿元，最近两年净利润均为正且累计净利润不低于人民币 5,000 万元，或者预计市值不低于人民币 10 亿元，最近一年净利润为正且营业收入不低于人民币 1 亿元”。根据《上海证券交易所科创板股票发行与承销实施办法》的规定，若公司按照确定的发行价格（或者发行价格区间下限）乘以发行后总股本计算的确定的预计发行后总市值低于 10 亿元，将中止发行。若参与询价的网下投资者报价过低或发行认购不足，导致公司未能达到预计市值条件，将会引起发行失败风险。",
+      "## （1）报告期内第一次股权转让 2021年2月22日，赛分有限召开股东会并作出决议，同意黄学英将其持有的赛分有限 58.2243 万元注册资本分别转让给复星惟盈、朱勤华、唐斌及张敏。 2021 年 1 月，黄学英与朱勤华签署了《股权转让协议》，2021 年 2 月 24 日，黄学英与复星惟盈、唐斌、张敏签署了《股权转让协议》。 具体情况如下： 注：上述表格中转让单价和转让金额之间的细微差异，系计算过程四舍五入造成。 2021 年 3 月，上述股权受让方将股权转让款项支付给黄学英。根据国家税务总局苏州工业园区税务局第一税务所出具的完税证明，黄学英已就上述股权转让事项缴纳了个人所得税 5,882,051.40 元。",
+      "## （2）报告期内第一次增资 2021年2月25日，赛分有限召开股东会并作出决议，同意公司注册资本增加 342.6769 万元至 2,750.6769 万元。新增的 342.6769 万元注册资本由国寿疌泉、复星惟盈、唐斌、张敏以人民币 1.85亿元认购。 2021年2月26日，国寿疌泉、复星惟盈、唐斌、张敏与发行人签署了《关于苏州赛分科技有限公司之增资协议》。 本次增资具体情况如下： 注：上述表格中增资单价和增资金额之间的细微差异，系计算过程四舍五入造成。 2021 年 3 月 9 日，国寿疌泉、复星惟盈、唐斌、张敏向公司支付完毕全部增资款。 2021年4月20日，公司就股权转让和增资事项办理完毕工商变更登记手续，取得了苏州工业园区市场监督管理局换发的《营业执照》。 本次增资和股权转让完成后，赛分有限的股权结构如下：",
+      "## 2、2021年 8月，报告期内第二次股权转让 2021年7月10日，赛分有限召开股东会并作出决议，同意黄学英将其持有的公司 0.8%的注册资本 22.00 万元以人民币 0 元的价格转让给高新同华。本次股权转让系为解决公司与高新同华之间的业绩承诺与补偿事宜。 2021年7月10日，赛分有限、高新同华与黄学英签署《增资协议之补充协议》，约定终止各方于 2015 年 7 月签署的《投资合作框架协议》中第四条“业绩承诺”和各方于2015年8月签署的《增资协议》中第五条“业绩承诺和补偿”，各方不再根据被终止条款享有任何权利或承担任何义务，作为补偿，黄学英同意以合计人民币0元的价格向高新同华转让其所持有的赛分有限22万元注册资本， 双方将另行签署《股权转让协议》。 黄学英与高新同华就上述股权转让事宜签署了《股权转让协议》，就该次股权转让事项，黄学英已经取得了免税证明。 本次股权转让后，赛分有限的股权结构如下：",
+      "## 4、2021 年 11 月，报告期内第二次增资 2021年10月28日，赛分科技召开 2021年第一次临时股东大会，决议同意赛分科技增发股份 4,243,901 股，新增股份由新增股东源峰磐赛、珠海峦恒、高瓴祈睿、国药中生、圣成投资、国药二期、圣祁投资、夏尔巴二期、甘李药业、吴征涛认购。 2021 年 10 月 28 日，上述新增股东与赛分科技签署了《增资协议》。截至2021年11月，上述新增股东已支付完毕全部增资款。 本次增资具体情况如下： 注：上述表格中增资单价和增资金额之间的细微差异，系计算过程四舍五入造成。 2021 年 11 月 10 日，赛分科技取得了江苏省市场监督管理局换发的《营业执照》。 本次增资完成后，赛分科技的股权结构如下：",
+      "## 三、公司成立以来重要事件 2011年10月，赛分有限以 170万美元向黄学英/刘鸿雁、陆民、周乃鼎、史建伟、Cheer Rise Consultants Limited 收购美国赛分 79,399 股股份，占美国赛分股份总数的100%。该次股份收购后，赛分有限持有美国赛分 100%的股份。 具体转让情况如下： 该次股份转让后，美国赛分已发行的股份情况如下：",
+      "## 2、黄学英民生银行股份有限公司转贷 公司实际控制人黄学英于2019年12月向中国民生银行股份有限公司吴江支行申请小微贷款，授信额度 300 万元（编号：HT2606201904165621）。黄学英通过公司员工注册的公司苏州义捷，将所获300万元民生银行贷款流转至个人账户，并最终用作补缴股权转让税款及滞纳金。具体流转情况如下： 单位：万元 如上表所示，黄学英涉及的转贷共计 300 万元，发生在 2020 年 1 月，在此之后黄学英未再有转贷行为。上述转贷资金主要用于黄学英补缴股权转让税款及滞纳金，与发行人无关，不涉及发行人处罚事项。相关贷款已归还，贷款方中国民生银行股份有限公司吴江支行出具《说明函》，该笔贷款发放时采取受托支付方式，已全部结清本金及利息，未对本行（民生银行）造成任何损失，且不存在任何纠纷，本行（民生银行）不会再追究黄学英在前述贷款过程中的相关责任。",
+      "## （2）2019 年，美国赛分向肖伟忠、刘冰重新发行股份，但未成功 为应对肖伟忠、刘冰潜在的股份权属要求，2019年11 月，美国赛分拟向肖伟忠、刘冰重新发行股份，其中美国赛分向肖伟忠重新发行 2,400 股、向刘冰重新发行200股。但是肖伟忠、刘冰最终未正式与美国赛分签订股份认购协议，美国赛分亦未向其核发股权证书，因此该次股份并未实际发行。 该次股份发行中，美国赛分计划向肖伟忠发行股份的数量为 2,400 股的原因是，美国赛分早期向其授予60 股股份时，通过邮件形式约定的服务期限为 5年，肖伟忠实际在公司工作了2年，故美国赛分计划确认其 24股股份（60股×2/5）。此外，由于 2009 年美国赛分扩股，美国赛分每 1 股扩股至 100 股，故美国赛分计划向肖伟忠发行的股份数量为 2,400 股（24 股×100）。 该次股份发行中，美国赛分计划向刘冰发行股份的数量为 200 股的原因是，美国赛分早期向其授予 2 股股份时，双方约定的服务期事项没有相应书面记录，且考虑到刘冰获授的股份数量较少，为快速解决双方争议，故美国赛分计划确认其2股股份。此外，由于2009 年美国赛分扩股，美国赛分每1 股扩股至100股，故美国赛分计划向刘冰发行的股份数量为 200股（2股×100）。"
+    ]
+  },
+  "processing": {
+    "download_status": "success",
+    "parse_status": "success",
+    "locate_status": "success",
+    "extract_status": "success",
+    "review_status": "unchecked",
+    "candidate_snippet_count": 9,
+    "extracted_event_count": 4,
+    "candidate_signal_count": 17,
+    "notes": "第六步从第五步定位章节中抽取 PE/VC 研究相关的股权融资事件池。v5 版本加强了重复事件去重、投资方名称清洗、低质量章节过滤和并列投资金额识别；未披露字段不编造，保留为 null 或“未披露”。 v5.1 clean: normalized processing status and rebuilt investor_overview from clean event investors."
+  },
+  "_meta": {
+    "schema_name": "pevc_research_event_pool",
+    "schema_version": "v5_refined",
+    "generated_at": "2026-06-05 23:14:53",
+    "sample_id": "STAR001",
+    "source_candidate_file": "outputs/week1_candidate_texts/STAR001_688758_candidate.txt"
+  }
+}
