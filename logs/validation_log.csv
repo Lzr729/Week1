@@ -1,0 +1,12 @@
+﻿json_file,company_name,stock_code,level,check_item,message
+BSE001_920100.json,常州三协电机股份有限公司,920100,INFO,weak_source_section,第 2 条事件 source_section 为泛化章节，建议后续优先用更具体章节替代：科目具体情况及分析说明：
+BSE001_920100.json,常州三协电机股份有限公司,920100,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
+BSE002_920116.json,中科星图测控技术股份有限公司,920116,INFO,weak_source_section,第 1 条事件 source_section 为泛化章节，建议后续优先用更具体章节替代：1、 股本
+BSE002_920116.json,中科星图测控技术股份有限公司,920116,INFO,weak_source_section,第 3 条事件 source_section 为泛化章节，建议后续优先用更具体章节替代：（三）募集资金使用情况
+BSE002_920116.json,中科星图测控技术股份有限公司,920116,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
+GEM001_301581.json,黄山谷捷股份有限公司,301581,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
+GEM002_301563.json,云汉芯城（上海）互联网科技股份有限公司,301563,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
+MB001_001282.json,芜湖三联锻造股份有限公司,001282,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
+MB002_603418.json,上海友升铝业股份有限公司,603418,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
+STAR001_688758.json,苏州赛分科技股份有限公司,688758,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
+STAR002_688775.json,影石创新科技股份有限公司,688775,PASS,all_checks,新版 PE/VC 事件池 JSON 校验通过。
