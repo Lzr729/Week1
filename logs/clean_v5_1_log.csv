@@ -1,0 +1,9 @@
+﻿json_file,company_name,stock_code,old_locate_status,new_locate_status,old_overview_count,new_overview_count,old_event_investor_count,new_event_investor_count,status,error_message
+BSE001_920100.json,常州三协电机股份有限公司,920100,unchecked,success,8,3,5,5,success,
+BSE002_920116.json,中科星图测控技术股份有限公司,920116,unchecked,success,7,0,0,0,success,
+GEM001_301581.json,黄山谷捷股份有限公司,301581,unchecked,success,7,3,3,3,success,
+GEM002_301563.json,云汉芯城（上海）互联网科技股份有限公司,301563,unchecked,success,49,18,21,21,success,
+MB001_001282.json,芜湖三联锻造股份有限公司,001282,unchecked,success,6,0,0,0,success,
+MB002_603418.json,上海友升铝业股份有限公司,603418,unchecked,success,35,8,8,8,success,
+STAR001_688758.json,苏州赛分科技股份有限公司,688758,unchecked,success,42,16,18,18,success,
+STAR002_688775.json,影石创新科技股份有限公司,688775,unchecked,success,31,2,2,2,success,
